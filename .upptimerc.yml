@@ -16,7 +16,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /ardus-uk/upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: ARDUS Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/ardus-uk/upptime). 
   navbar:
