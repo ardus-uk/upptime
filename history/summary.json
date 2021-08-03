@@ -58,18 +58,20 @@
     "url": "https://www.cumbria-rural-choirs.org.uk",
     "icon": "https://favicons.githubusercontent.com/www.cumbria-rural-choirs.org.uk",
     "slug": "cumbria-rural-choirs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 824,
-    "timeDay": 705,
+    "timeDay": 966,
     "timeWeek": 824,
     "timeMonth": 824,
     "timeYear": 824,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 0
+    }
   },
   {
     "name": "Eigensolutions UK",
