@@ -4,9 +4,9 @@
     "url": "https://www.ardus.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.ardus.co.uk",
     "slug": "ardus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 456,
     "timeMonth": 451,
     "timeYear": 451,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-08": 0
+    }
   },
   {
     "name": "PW Temple",
     "url": "https://www.pwtemple.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.pwtemple.co.uk",
     "slug": "pw-temple",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 632,
     "timeMonth": 635,
     "timeYear": 635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-08": 0
+    }
   },
   {
     "name": "Wigton Choral Society",
     "url": "https://www.wigtonchoral.org.uk",
     "icon": "https://favicons.githubusercontent.com/www.wigtonchoral.org.uk",
     "slug": "wigton-choral-society",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 860,
     "timeMonth": 821,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-08": 0
+    }
   },
   {
     "name": "Cumbria Rural Choirs",
@@ -76,9 +82,9 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.eigensolutions.co.uk",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +93,9 @@
     "timeWeek": 483,
     "timeMonth": 488,
     "timeYear": 488,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-08": 0
+    }
   },
   {
     "name": "U3A Raspberry Pis",
