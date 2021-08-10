@@ -4,9 +4,9 @@
     "url": "https://www.ardus.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.ardus.co.uk",
     "slug": "ardus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 414,
     "timeMonth": 435,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-10": 0
+    }
   },
   {
     "name": "PW Temple",
     "url": "https://www.pwtemple.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.pwtemple.co.uk",
     "slug": "pw-temple",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 572,
     "timeMonth": 605,
     "timeYear": 605,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-10": 0
+    }
   },
   {
     "name": "Wigton Choral Society",
     "url": "https://www.wigtonchoral.org.uk",
     "icon": "https://favicons.githubusercontent.com/www.wigtonchoral.org.uk",
     "slug": "wigton-choral-society",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 779,
     "timeMonth": 790,
     "timeYear": 790,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-10": 0
+    }
   },
   {
     "name": "Cumbria Rural Choirs",
@@ -95,11 +101,11 @@
     "icon": "https://favicons.githubusercontent.com/u3a.epizy.com",
     "slug": "u3-a-raspberry-pis",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "97.73%",
     "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 371,
     "timeDay": 276,
     "timeWeek": 346,
