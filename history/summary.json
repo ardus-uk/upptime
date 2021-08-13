@@ -58,7 +58,7 @@
     "url": "https://www.cumbria-rural-choirs.org.uk",
     "icon": "https://favicons.githubusercontent.com/www.cumbria-rural-choirs.org.uk",
     "slug": "cumbria-rural-choirs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 786,
     "timeMonth": 765,
     "timeYear": 765,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-13": 0
+    }
   },
   {
     "name": "Eigensolutions UK",
@@ -95,11 +97,11 @@
     "icon": "https://favicons.githubusercontent.com/u3a.epizy.com",
     "slug": "u3-a-raspberry-pis",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 367,
     "timeDay": 363,
     "timeWeek": 342,
