@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 320,
-    "timeWeek": 373,
+    "timeWeek": 379,
     "timeMonth": 416,
     "timeYear": 416,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 571,
     "timeDay": 413,
-    "timeWeek": 485,
+    "timeWeek": 492,
     "timeMonth": 571,
     "timeYear": 571,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 745,
     "timeDay": 508,
-    "timeWeek": 650,
+    "timeWeek": 660,
     "timeMonth": 745,
     "timeYear": 745,
     "dailyMinutesDown": {}
@@ -58,9 +58,9 @@
     "url": "https://www.cumbria-rural-choirs.org.uk",
     "icon": "https://favicons.githubusercontent.com/www.cumbria-rural-choirs.org.uk",
     "slug": "cumbria-rural-choirs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 740,
     "timeMonth": 759,
     "timeYear": 759,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-15": 0
+    }
   },
   {
     "name": "Eigensolutions UK",
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 441,
     "timeDay": 318,
-    "timeWeek": 353,
+    "timeWeek": 359,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {}
@@ -95,11 +97,11 @@
     "icon": "https://favicons.githubusercontent.com/u3a.epizy.com",
     "slug": "u3-a-raspberry-pis",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 368,
     "timeDay": 240,
     "timeWeek": 343,
