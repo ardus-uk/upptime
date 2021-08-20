@@ -58,7 +58,7 @@
     "url": "https://www.cumbria-rural-choirs.org.uk",
     "icon": "https://favicons.githubusercontent.com/www.cumbria-rural-choirs.org.uk",
     "slug": "cumbria-rural-choirs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
@@ -70,6 +70,7 @@
     "timeMonth": 768,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2021-08-20": 0,
       "2021-08-15": 15
     }
   },
@@ -97,11 +98,11 @@
     "icon": "https://favicons.githubusercontent.com/u3a.epizy.com",
     "slug": "u3-a-raspberry-pis",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 381,
     "timeDay": 431,
     "timeWeek": 418,
