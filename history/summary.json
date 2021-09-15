@@ -4,10 +4,10 @@
     "url": "https://www.ardus.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.ardus.co.uk",
     "slug": "ardus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 402,
@@ -16,6 +16,7 @@
     "timeMonth": 394,
     "timeYear": 402,
     "dailyMinutesDown": {
+      "2021-09-15": 0,
       "2021-09-14": 18
     }
   },
