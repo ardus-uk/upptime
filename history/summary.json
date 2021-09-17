@@ -4,10 +4,10 @@
     "url": "https://www.ardus.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.ardus.co.uk",
     "slug": "ardus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 401,
@@ -16,6 +16,7 @@
     "timeMonth": 388,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2021-09-17": 0,
       "2021-09-14": 18
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://www.pwtemple.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.pwtemple.co.uk",
     "slug": "pw-temple",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -36,6 +37,7 @@
     "timeMonth": 506,
     "timeYear": 534,
     "dailyMinutesDown": {
+      "2021-09-17": 0,
       "2021-09-14": 17
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://www.wigtonchoral.org.uk",
     "icon": "https://favicons.githubusercontent.com/www.wigtonchoral.org.uk",
     "slug": "wigton-choral-society",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 690,
@@ -56,6 +58,7 @@
     "timeMonth": 652,
     "timeYear": 690,
     "dailyMinutesDown": {
+      "2021-09-17": 0,
       "2021-09-14": 17
     }
   },
@@ -65,11 +68,11 @@
     "icon": "https://favicons.githubusercontent.com/www.cumbria-rural-choirs.org.uk",
     "slug": "cumbria-rural-choirs",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 728,
     "timeDay": 482,
     "timeWeek": 779,
@@ -88,9 +91,9 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.eigensolutions.co.uk",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -100,6 +103,7 @@
     "timeMonth": 399,
     "timeYear": 418,
     "dailyMinutesDown": {
+      "2021-09-17": 0,
       "2021-09-14": 16
     }
   },
