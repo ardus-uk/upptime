@@ -90,9 +90,9 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.eigensolutions.co.uk",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -102,6 +102,7 @@
     "timeMonth": 405,
     "timeYear": 416,
     "dailyMinutesDown": {
+      "2021-10-20": 0,
       "2021-09-26": 19,
       "2021-09-14": 16
     }
