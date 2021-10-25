@@ -4,9 +4,9 @@
     "url": "https://www.ardus.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.ardus.co.uk",
     "slug": "ardus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 427,
     "timeYear": 413,
     "dailyMinutesDown": {
+      "2021-10-25": 0,
       "2021-10-10": 18,
       "2021-09-14": 18
     }
@@ -25,9 +26,9 @@
     "url": "https://www.pwtemple.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.pwtemple.co.uk",
     "slug": "pw-temple",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -37,6 +38,7 @@
     "timeMonth": 562,
     "timeYear": 551,
     "dailyMinutesDown": {
+      "2021-10-25": 0,
       "2021-10-10": 18,
       "2021-09-14": 17
     }
@@ -46,9 +48,9 @@
     "url": "https://www.wigtonchoral.org.uk",
     "icon": "https://favicons.githubusercontent.com/www.wigtonchoral.org.uk",
     "slug": "wigton-choral-society",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -58,6 +60,7 @@
     "timeMonth": 727,
     "timeYear": 715,
     "dailyMinutesDown": {
+      "2021-10-25": 0,
       "2021-09-14": 17
     }
   },
@@ -67,18 +70,17 @@
     "icon": "https://favicons.githubusercontent.com/www.cumbria-rural-choirs.org.uk",
     "slug": "cumbria-rural-choirs",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 718,
     "timeDay": 860,
     "timeWeek": 703,
     "timeMonth": 679,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2021-10-25": 14,
       "2021-09-11": 22,
       "2021-09-03": 18,
       "2021-08-30": 17,
