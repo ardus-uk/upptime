@@ -4,9 +4,9 @@
     "url": "https://www.ardus.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.ardus.co.uk",
     "slug": "ardus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 412,
     "timeYear": 416,
     "dailyMinutesDown": {
+      "2021-11-02": 0,
       "2021-10-29": 42,
       "2021-10-10": 18,
       "2021-09-14": 18
@@ -26,9 +27,9 @@
     "url": "https://www.pwtemple.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.pwtemple.co.uk",
     "slug": "pw-temple",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -38,6 +39,7 @@
     "timeMonth": 552,
     "timeYear": 551,
     "dailyMinutesDown": {
+      "2021-11-02": 0,
       "2021-10-10": 18,
       "2021-09-14": 17
     }
@@ -47,9 +49,9 @@
     "url": "https://www.wigtonchoral.org.uk",
     "icon": "https://favicons.githubusercontent.com/www.wigtonchoral.org.uk",
     "slug": "wigton-choral-society",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -59,6 +61,7 @@
     "timeMonth": 712,
     "timeYear": 716,
     "dailyMinutesDown": {
+      "2021-11-02": 0,
       "2021-09-14": 17
     }
   },
@@ -91,9 +94,9 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.eigensolutions.co.uk",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -103,6 +106,7 @@
     "timeMonth": 409,
     "timeYear": 419,
     "dailyMinutesDown": {
+      "2021-11-02": 0,
       "2021-09-26": 19,
       "2021-09-14": 16
     }
