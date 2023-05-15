@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ardus.co.uk.ico",
     "slug": "ardus",
     "status": "up",
-    "uptime": "93.60%",
+    "uptime": "93.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.90%",
-    "time": 789,
-    "timeDay": 870,
-    "timeWeek": 1006,
-    "timeMonth": 855,
+    "uptimeYear": "97.17%",
+    "time": 790,
+    "timeDay": 1016,
+    "timeWeek": 1003,
+    "timeMonth": 865,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2022-06-21": 36,
@@ -26,8 +26,7 @@
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
-      "2022-05-16": 1440,
-      "2022-05-15": 1440
+      "2022-05-16": 1440
     }
   },
   {
@@ -41,10 +40,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 316,
-    "timeDay": 374,
-    "timeWeek": 325,
-    "timeMonth": 300,
+    "time": 315,
+    "timeDay": 164,
+    "timeWeek": 304,
+    "timeMonth": 287,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2022-09-15": 86,
@@ -63,9 +62,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 554,
-    "timeDay": 472,
-    "timeWeek": 464,
-    "timeMonth": 467,
+    "timeDay": 490,
+    "timeWeek": 501,
+    "timeMonth": 462,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2022-06-21": 35
@@ -83,10 +82,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 480,
-    "timeDay": 451,
-    "timeWeek": 465,
-    "timeMonth": 471,
-    "timeYear": 498,
+    "timeDay": 492,
+    "timeWeek": 500,
+    "timeMonth": 468,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2022-06-21": 35
     }
@@ -103,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 787,
-    "timeDay": 560,
-    "timeWeek": 631,
-    "timeMonth": 634,
+    "timeDay": 575,
+    "timeWeek": 593,
+    "timeMonth": 630,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2023-04-12": 16,
@@ -135,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.32%",
     "time": 614,
-    "timeDay": 479,
-    "timeWeek": 449,
-    "timeMonth": 660,
+    "timeDay": 337,
+    "timeWeek": 430,
+    "timeMonth": 646,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2023-03-27": 25,
