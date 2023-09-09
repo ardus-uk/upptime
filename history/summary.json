@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ardus.co.uk.ico",
     "slug": "ardus",
     "status": "up",
-    "uptime": "94.57%",
+    "uptime": "94.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
-    "time": 835,
-    "timeDay": 729,
-    "timeWeek": 662,
-    "timeMonth": 648,
-    "timeYear": 829,
+    "time": 834,
+    "timeDay": 623,
+    "timeWeek": 657,
+    "timeMonth": 643,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2023-08-11": 78
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 291,
-    "timeDay": 158,
-    "timeWeek": 224,
-    "timeMonth": 278,
-    "timeYear": 286,
+    "timeDay": 165,
+    "timeWeek": 210,
+    "timeMonth": 271,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2022-09-15": 86
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 552,
-    "timeDay": 318,
-    "timeWeek": 381,
-    "timeMonth": 399,
-    "timeYear": 479,
+    "time": 551,
+    "timeDay": 334,
+    "timeWeek": 367,
+    "timeMonth": 394,
+    "timeYear": 478,
     "dailyMinutesDown": {
       "2023-08-11": 70
     }
@@ -71,10 +71,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 499,
-    "timeDay": 475,
-    "timeWeek": 406,
-    "timeMonth": 377,
-    "timeYear": 504,
+    "timeDay": 370,
+    "timeWeek": 400,
+    "timeMonth": 372,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2023-08-11": 78
     }
@@ -91,10 +91,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.90%",
     "time": 756,
-    "timeDay": 522,
-    "timeWeek": 469,
-    "timeMonth": 423,
-    "timeYear": 742,
+    "timeDay": 370,
+    "timeWeek": 452,
+    "timeMonth": 420,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2023-08-11": 78,
       "2023-04-12": 16,
@@ -122,8 +122,8 @@
     "uptimeMonth": "99.26%",
     "uptimeYear": "97.33%",
     "time": 610,
-    "timeDay": 202,
-    "timeWeek": 315,
+    "timeDay": 456,
+    "timeWeek": 338,
     "timeMonth": 484,
     "timeYear": 690,
     "dailyMinutesDown": {
