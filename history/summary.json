@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 831,
-    "timeDay": 680,
-    "timeWeek": 692,
-    "timeMonth": 671,
+    "timeDay": 658,
+    "timeWeek": 666,
+    "timeMonth": 670,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2023-08-11": 78
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 509,
-    "timeWeek": 354,
-    "timeMonth": 265,
+    "timeDay": 307,
+    "timeWeek": 345,
+    "timeMonth": 262,
     "timeYear": 285,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 550,
-    "timeDay": 366,
-    "timeWeek": 429,
-    "timeMonth": 398,
-    "timeYear": 473,
+    "time": 551,
+    "timeDay": 336,
+    "timeWeek": 411,
+    "timeMonth": 393,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2023-08-11": 70
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 499,
-    "timeDay": 418,
-    "timeWeek": 400,
-    "timeMonth": 378,
+    "timeDay": 333,
+    "timeWeek": 393,
+    "timeMonth": 376,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2023-08-11": 78
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 749,
-    "timeDay": 296,
-    "timeWeek": 399,
-    "timeMonth": 419,
+    "timeDay": 385,
+    "timeWeek": 389,
+    "timeMonth": 414,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2023-08-11": 78,
@@ -104,8 +104,7 @@
       "2023-02-05": 35,
       "2023-01-30": 19,
       "2023-01-26": 199,
-      "2022-11-20": 17,
-      "2022-09-23": 48
+      "2022-11-20": 17
     }
   },
   {
@@ -115,17 +114,16 @@
     "slug": "u3-a-raspberry-pis",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "97.32%",
     "time": 635,
-    "timeDay": 438,
-    "timeWeek": 1327,
-    "timeMonth": 706,
+    "timeDay": 466,
+    "timeWeek": 1322,
+    "timeMonth": 708,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-09-22": 12,
       "2023-09-19": 42,
       "2023-09-18": 17,
       "2023-08-30": 23,
