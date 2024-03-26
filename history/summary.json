@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ardus.co.uk.ico",
     "slug": "ardus",
     "status": "up",
-    "uptime": "95.68%",
+    "uptime": "95.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 768,
-    "timeDay": 793,
-    "timeWeek": 687,
-    "timeMonth": 683,
+    "time": 767,
+    "timeDay": 686,
+    "timeWeek": 692,
+    "timeMonth": 685,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2023-10-02": 17,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 542,
-    "timeWeek": 311,
-    "timeMonth": 279,
+    "timeDay": 273,
+    "timeWeek": 269,
+    "timeMonth": 282,
     "timeYear": 274,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 439,
-    "timeDay": 444,
-    "timeWeek": 397,
-    "timeMonth": 406,
+    "timeDay": 381,
+    "timeWeek": 393,
+    "timeMonth": 404,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2023-08-11": 70
@@ -70,8 +70,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 419,
-    "timeDay": 181,
-    "timeWeek": 282,
+    "timeDay": 332,
+    "timeWeek": 302,
     "timeMonth": 271,
     "timeYear": 388,
     "dailyMinutesDown": {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.96%",
-    "time": 579,
-    "timeDay": 476,
-    "timeWeek": 387,
-    "timeMonth": 398,
-    "timeYear": 520,
+    "time": 578,
+    "timeDay": 331,
+    "timeWeek": 368,
+    "timeMonth": 390,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2024-02-26": 112,
       "2023-08-11": 78,
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
     "time": 598,
-    "timeDay": 340,
-    "timeWeek": 360,
-    "timeMonth": 320,
+    "timeDay": 269,
+    "timeWeek": 349,
+    "timeMonth": 322,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2024-02-20": 139,
@@ -164,8 +164,7 @@
       "2023-07-02": 37,
       "2023-06-12": 16,
       "2023-06-06": 161,
-      "2023-06-05": 83,
-      "2023-03-27": 25
+      "2023-06-05": 83
     }
   }
 ]
