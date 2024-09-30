@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 724,
-    "timeDay": 543,
-    "timeWeek": 497,
-    "timeMonth": 670,
+    "timeDay": 510,
+    "timeWeek": 478,
+    "timeMonth": 663,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2024-09-09": 17,
@@ -34,8 +34,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 280,
-    "timeWeek": 319,
+    "timeDay": 208,
+    "timeWeek": 282,
     "timeMonth": 292,
     "timeYear": 282,
     "dailyMinutesDown": {}
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 420,
-    "timeDay": 472,
-    "timeWeek": 405,
-    "timeMonth": 458,
-    "timeYear": 422,
+    "timeDay": 381,
+    "timeWeek": 400,
+    "timeMonth": 457,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2024-03-26": 17
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
-    "timeDay": 256,
-    "timeWeek": 289,
-    "timeMonth": 269,
+    "timeDay": 344,
+    "timeWeek": 302,
+    "timeMonth": 271,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2024-03-26": 17
@@ -87,17 +87,16 @@
     "slug": "eigensolutions-uk",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
-    "time": 492,
-    "timeDay": 380,
-    "timeWeek": 422,
+    "time": 491,
+    "timeDay": 365,
+    "timeWeek": 407,
     "timeMonth": 418,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2024-09-29": 8,
       "2024-09-09": 16,
       "2024-08-23": 19,
       "2024-08-22": 63,
@@ -121,8 +120,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.51%",
     "time": 506,
-    "timeDay": 388,
-    "timeWeek": 315,
+    "timeDay": 314,
+    "timeWeek": 316,
     "timeMonth": 355,
     "timeYear": 503,
     "dailyMinutesDown": {
@@ -167,8 +166,7 @@
       "2023-10-09": 17,
       "2023-10-05": 49,
       "2023-10-04": 62,
-      "2023-10-02": 20,
-      "2023-10-01": 16
+      "2023-10-02": 20
     }
   }
 ]
