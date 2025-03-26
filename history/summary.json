@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 697,
-    "timeDay": 590,
-    "timeWeek": 501,
-    "timeMonth": 531,
+    "timeDay": 469,
+    "timeWeek": 485,
+    "timeMonth": 528,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2024-09-09": 17,
-      "2024-08-30": 20,
-      "2024-03-26": 18
+      "2024-08-30": 20
     }
   },
   {
@@ -33,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 595,
-    "timeWeek": 441,
-    "timeMonth": 389,
-    "timeYear": 337,
+    "timeDay": 557,
+    "timeWeek": 488,
+    "timeMonth": 392,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2025-02-06": 23
     }
@@ -53,13 +52,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 400,
-    "timeDay": 348,
-    "timeWeek": 325,
-    "timeMonth": 309,
-    "timeYear": 405,
-    "dailyMinutesDown": {
-      "2024-03-26": 17
-    }
+    "timeDay": 317,
+    "timeWeek": 332,
+    "timeMonth": 308,
+    "timeYear": 404,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cumbria Rural Choirs",
@@ -72,14 +69,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 409,
-    "timeWeek": 318,
-    "timeMonth": 326,
+    "time": 286,
+    "timeDay": 371,
+    "timeWeek": 323,
+    "timeMonth": 322,
     "timeYear": 294,
-    "dailyMinutesDown": {
-      "2024-03-26": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Eigensolutions UK",
@@ -93,10 +88,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 462,
-    "timeDay": 616,
-    "timeWeek": 430,
-    "timeMonth": 597,
-    "timeYear": 463,
+    "timeDay": 504,
+    "timeWeek": 451,
+    "timeMonth": 602,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2025-03-05": 41,
       "2024-09-09": 16,
@@ -121,10 +116,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 461,
-    "timeDay": 597,
-    "timeWeek": 511,
-    "timeMonth": 536,
-    "timeYear": 461,
+    "timeDay": 501,
+    "timeWeek": 528,
+    "timeMonth": 535,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2025-02-07": 119,
       "2024-12-18": 16,
