@@ -25,9 +25,9 @@
     "url": "https://www.pwtemple.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 423,
     "timeYear": 343,
     "dailyMinutesDown": {
+      "2025-04-06": 0,
       "2025-02-06": 23
     }
   },
