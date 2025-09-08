@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "89.54%",
+    "uptime": "89.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.65%",
+    "uptimeYear": "57.60%",
     "time": 348,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2025-09-08": 50,
+      "2025-09-08": 291,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
@@ -236,11 +236,11 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "97.70%",
+    "uptimeDay": "97.65%",
     "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.44%",
     "time": 459,
     "timeDay": 454,
@@ -248,6 +248,7 @@
     "timeMonth": 437,
     "timeYear": 457,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-09-07": 33,
       "2025-09-06": 36,
       "2025-08-22": 21,
@@ -268,7 +269,7 @@
       "2025-06-18": 138,
       "2025-06-17": 235,
       "2025-06-16": 46,
-      "2025-06-15": 82
+      "2025-06-15": 64
     }
   },
   {
@@ -276,18 +277,19 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "97.77%",
+    "uptimeDay": "97.75%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.48%",
     "time": 578,
     "timeDay": 458,
     "timeWeek": 461,
     "timeMonth": 466,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2025-09-08": 0,
       "2025-09-07": 32,
       "2025-09-06": 36,
       "2025-08-30": 15,
@@ -313,7 +315,7 @@
       "2025-07-04": 78,
       "2025-06-20": 125,
       "2025-06-19": 355,
-      "2025-06-18": 135
+      "2025-06-18": 107
     }
   }
 ]
