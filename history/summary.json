@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "89.33%",
+    "uptime": "89.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.68%",
+    "uptimeYear": "56.63%",
     "time": 348,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-09-11": 816,
+      "2025-09-11": 1066,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -237,19 +237,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "94.98%",
-    "uptimeWeek": "97.05%",
+    "uptimeDay": "94.93%",
+    "uptimeWeek": "97.04%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.47%",
     "time": 456,
-    "timeDay": 474,
+    "timeDay": 454,
     "timeWeek": 448,
     "timeMonth": 441,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2025-09-11": 34,
+      "2025-09-11": 35,
       "2025-09-10": 109,
       "2025-09-09": 20,
       "2025-09-08": 65,
@@ -270,7 +270,7 @@
       "2025-07-04": 79,
       "2025-06-20": 84,
       "2025-06-19": 360,
-      "2025-06-18": 110
+      "2025-06-18": 83
     }
   },
   {
@@ -278,14 +278,14 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "95.11%",
+    "uptimeDay": "95.09%",
     "uptimeWeek": "97.12%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 572,
-    "timeDay": 594,
+    "timeDay": 615,
     "timeWeek": 677,
     "timeMonth": 593,
     "timeYear": 582,
@@ -318,7 +318,7 @@
       "2025-07-05": 198,
       "2025-07-04": 78,
       "2025-06-20": 125,
-      "2025-06-19": 151
+      "2025-06-19": 125
     }
   }
 ]
