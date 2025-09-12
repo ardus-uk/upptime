@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "89.27%",
+    "uptime": "89.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.41%",
+    "uptimeYear": "56.36%",
     "time": 348,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-09-12": 803,
+      "2025-09-12": 1082,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
@@ -238,19 +238,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "62.00%",
-    "uptimeWeek": "91.75%",
+    "uptimeDay": "62.82%",
+    "uptimeWeek": "91.74%",
     "uptimeMonth": "98.05%",
     "uptimeYear": "99.38%",
     "time": 457,
-    "timeDay": 416,
-    "timeWeek": 442,
+    "timeDay": 411,
+    "timeWeek": 443,
     "timeMonth": 438,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2025-09-12": 491,
+      "2025-09-12": 492,
       "2025-09-11": 78,
       "2025-09-10": 109,
       "2025-09-09": 20,
@@ -272,7 +272,7 @@
       "2025-07-04": 79,
       "2025-06-20": 84,
       "2025-06-19": 360,
-      "2025-06-18": 33
+      "2025-06-18": 17
     }
   },
   {
@@ -280,15 +280,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "62.10%",
+    "uptimeDay": "62.95%",
     "uptimeWeek": "91.83%",
     "uptimeMonth": "98.04%",
     "uptimeYear": "99.41%",
     "time": 576,
-    "timeDay": 505,
-    "timeWeek": 648,
+    "timeDay": 490,
+    "timeWeek": 652,
     "timeMonth": 583,
     "timeYear": 581,
     "dailyMinutesDown": {
@@ -321,7 +321,7 @@
       "2025-07-05": 198,
       "2025-07-04": 78,
       "2025-06-20": 125,
-      "2025-06-19": 82
+      "2025-06-19": 63
     }
   }
 ]
