@@ -27,14 +27,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.92%",
+    "uptimeYear": "54.91%",
     "time": 350,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-09-17": 1416,
+      "2025-09-18": 44,
+      "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -245,17 +246,17 @@
     "slug": "eigensolutions-uk",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "82.99%",
-    "uptimeWeek": "83.81%",
-    "uptimeMonth": "95.63%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "86.62%",
+    "uptimeWeek": "83.90%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "99.34%",
     "time": 457,
-    "timeDay": 418,
+    "timeDay": 415,
     "timeWeek": 428,
     "timeMonth": 433,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-09-17": 247,
+      "2025-09-17": 238,
       "2025-09-16": 198,
       "2025-09-15": 164,
       "2025-09-14": 297,
@@ -275,7 +276,8 @@
       "2025-07-11": 299,
       "2025-07-10": 185,
       "2025-07-09": 70,
-      "2025-07-08": 111
+      "2025-07-08": 111,
+      "2025-07-07": 24
     }
   },
   {
@@ -285,17 +287,17 @@
     "slug": "u3-a-raspberry-pis",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "83.21%",
-    "uptimeWeek": "84.29%",
-    "uptimeMonth": "95.72%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "86.79%",
+    "uptimeWeek": "84.37%",
+    "uptimeMonth": "95.74%",
+    "uptimeYear": "99.36%",
     "time": 572,
-    "timeDay": 668,
+    "timeDay": 670,
     "timeWeek": 614,
     "timeMonth": 605,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-09-17": 241,
+      "2025-09-17": 233,
       "2025-09-16": 182,
       "2025-09-15": 161,
       "2025-09-14": 278,
@@ -321,7 +323,8 @@
       "2025-07-13": 256,
       "2025-07-12": 239,
       "2025-07-11": 259,
-      "2025-07-10": 130
+      "2025-07-10": 182,
+      "2025-07-09": 6
     }
   }
 ]
