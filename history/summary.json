@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "88.93%",
+    "uptime": "88.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.82%",
+    "uptimeYear": "54.78%",
     "time": 350,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-09-18": 501,
+      "2025-09-18": 717,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -244,19 +244,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "83.33%",
+    "uptimeDay": "92.88%",
+    "uptimeWeek": "83.51%",
     "uptimeMonth": "95.52%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.35%",
     "time": 457,
     "timeDay": 437,
-    "timeWeek": 429,
+    "timeWeek": 428,
     "timeMonth": 434,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-09-18": 57,
+      "2025-09-18": 58,
       "2025-09-17": 238,
       "2025-09-16": 198,
       "2025-09-15": 164,
@@ -277,7 +277,7 @@
       "2025-07-11": 299,
       "2025-07-10": 185,
       "2025-07-09": 70,
-      "2025-07-08": 93
+      "2025-07-08": 43
     }
   },
   {
@@ -285,15 +285,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "93.05%",
-    "uptimeWeek": "83.82%",
+    "uptimeDay": "93.04%",
+    "uptimeWeek": "83.99%",
     "uptimeMonth": "95.61%",
     "uptimeYear": "99.37%",
     "time": 573,
-    "timeDay": 470,
-    "timeWeek": 605,
+    "timeDay": 463,
+    "timeWeek": 604,
     "timeMonth": 604,
     "timeYear": 587,
     "dailyMinutesDown": {
@@ -324,7 +324,7 @@
       "2025-07-13": 256,
       "2025-07-12": 239,
       "2025-07-11": 259,
-      "2025-07-10": 108
+      "2025-07-10": 86
     }
   }
 ]
