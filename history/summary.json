@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "88.94%",
+    "uptime": "88.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.88%",
+    "uptimeYear": "54.83%",
     "time": 350,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-09-18": 201,
+      "2025-09-18": 478,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -244,19 +244,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "89.13%",
-    "uptimeWeek": "83.57%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "83.56%",
     "uptimeMonth": "95.57%",
     "uptimeYear": "99.34%",
     "time": 457,
-    "timeDay": 421,
-    "timeWeek": 429,
+    "timeDay": 431,
+    "timeWeek": 428,
     "timeMonth": 434,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-09-18": 33,
+      "2025-09-18": 34,
       "2025-09-17": 238,
       "2025-09-16": 198,
       "2025-09-15": 164,
@@ -277,7 +277,7 @@
       "2025-07-11": 299,
       "2025-07-10": 185,
       "2025-07-09": 70,
-      "2025-07-08": 111
+      "2025-07-08": 93
     }
   },
   {
@@ -285,15 +285,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "89.32%",
+    "uptimeDay": "94.68%",
     "uptimeWeek": "84.05%",
     "uptimeMonth": "95.66%",
     "uptimeYear": "99.37%",
-    "time": 572,
-    "timeDay": 685,
-    "timeWeek": 614,
+    "time": 573,
+    "timeDay": 470,
+    "timeWeek": 606,
     "timeMonth": 605,
     "timeYear": 587,
     "dailyMinutesDown": {
@@ -324,7 +324,7 @@
       "2025-07-13": 256,
       "2025-07-12": 239,
       "2025-07-11": 259,
-      "2025-07-10": 130
+      "2025-07-10": 108
     }
   }
 ]
