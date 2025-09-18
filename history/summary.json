@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.67%",
+    "uptimeYear": "54.66%",
     "time": 350,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-09-18": 1333,
+      "2025-09-18": 1369,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -244,19 +244,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "83.15%",
+    "uptimeDay": "83.11%",
     "uptimeWeek": "82.00%",
     "uptimeMonth": "95.13%",
-    "uptimeYear": "99.34%",
-    "time": 453,
-    "timeDay": 460,
-    "timeWeek": 430,
-    "timeMonth": 435,
+    "uptimeYear": "99.35%",
+    "time": 454,
+    "timeDay": 473,
+    "timeWeek": 432,
+    "timeMonth": 436,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-09-18": 226,
+      "2025-09-18": 227,
       "2025-09-17": 238,
       "2025-09-16": 198,
       "2025-09-15": 164,
@@ -275,8 +275,7 @@
       "2025-07-13": 260,
       "2025-07-12": 241,
       "2025-07-11": 299,
-      "2025-07-10": 185,
-      "2025-07-09": 6
+      "2025-07-10": 133
     }
   },
   {
@@ -284,14 +283,14 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "83.42%",
+    "uptimeDay": "83.40%",
     "uptimeWeek": "82.50%",
     "uptimeMonth": "95.23%",
-    "uptimeYear": "99.36%",
-    "time": 577,
-    "timeDay": 500,
+    "uptimeYear": "99.37%",
+    "time": 578,
+    "timeDay": 513,
     "timeWeek": 598,
     "timeMonth": 598,
     "timeYear": 586,
@@ -322,7 +321,7 @@
       "2025-07-14": 205,
       "2025-07-13": 256,
       "2025-07-12": 239,
-      "2025-07-11": 230
+      "2025-07-11": 192
     }
   }
 ]
