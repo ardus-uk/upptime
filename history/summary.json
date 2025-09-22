@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.65%",
+    "uptimeYear": "53.63%",
     "time": 351,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2025-09-22": 933,
+      "2025-09-22": 1006,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -248,19 +248,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "85.52%",
-    "uptimeWeek": "83.75%",
+    "uptimeDay": "86.76%",
+    "uptimeWeek": "84.03%",
     "uptimeMonth": "93.06%",
     "uptimeYear": "99.36%",
     "time": 453,
-    "timeDay": 412,
+    "timeDay": 416,
     "timeWeek": 436,
     "timeMonth": 436,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2025-09-22": 135,
+      "2025-09-22": 136,
       "2025-09-21": 149,
       "2025-09-20": 357,
       "2025-09-19": 245,
@@ -279,7 +279,7 @@
       "2025-09-06": 36,
       "2025-08-22": 21,
       "2025-07-15": 146,
-      "2025-07-14": 173
+      "2025-07-14": 153
     }
   },
   {
@@ -287,15 +287,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "85.79%",
-    "uptimeWeek": "84.29%",
+    "uptimeDay": "87.02%",
+    "uptimeWeek": "84.57%",
     "uptimeMonth": "93.22%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 586,
-    "timeDay": 434,
-    "timeWeek": 587,
+    "timeDay": 439,
+    "timeWeek": 589,
     "timeMonth": 596,
     "timeYear": 587,
     "dailyMinutesDown": {
@@ -325,7 +325,7 @@
       "2025-07-19": 21,
       "2025-07-18": 30,
       "2025-07-17": 54,
-      "2025-07-15": 145
+      "2025-07-15": 119
     }
   }
 ]
