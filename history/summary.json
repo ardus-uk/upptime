@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "88.63%",
+    "uptime": "88.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2025-09-23": 825,
+      "2025-09-23": 850,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -249,19 +249,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "82.73%",
-    "uptimeWeek": "83.53%",
+    "uptimeDay": "82.68%",
+    "uptimeWeek": "83.52%",
     "uptimeMonth": "92.57%",
     "uptimeYear": "99.38%",
     "time": 455,
     "timeDay": 464,
-    "timeWeek": 442,
+    "timeWeek": 443,
     "timeMonth": 439,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-09-23": 130,
+      "2025-09-23": 131,
       "2025-09-22": 239,
       "2025-09-21": 149,
       "2025-09-20": 357,
@@ -278,8 +278,7 @@
       "2025-09-09": 20,
       "2025-09-08": 65,
       "2025-09-07": 33,
-      "2025-09-06": 36,
-      "2025-08-22": 21
+      "2025-09-06": 36
     }
   },
   {
@@ -287,15 +286,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "83.06%",
-    "uptimeWeek": "84.09%",
+    "uptimeDay": "83.04%",
+    "uptimeWeek": "84.08%",
     "uptimeMonth": "92.75%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 578,
     "timeDay": 980,
-    "timeWeek": 639,
+    "timeWeek": 641,
     "timeMonth": 628,
     "timeYear": 597,
     "dailyMinutesDown": {
@@ -319,8 +318,7 @@
       "2025-09-06": 36,
       "2025-08-30": 15,
       "2025-08-22": 20,
-      "2025-08-12": 27,
-      "2025-08-05": 22
+      "2025-08-12": 27
     }
   }
 ]
