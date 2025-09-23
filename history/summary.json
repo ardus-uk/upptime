@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.36%",
+    "uptimeYear": "53.35%",
     "time": 351,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2025-09-23": 988,
+      "2025-09-23": 1030,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -249,19 +249,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "78.96%",
+    "uptimeDay": "78.91%",
     "uptimeWeek": "82.98%",
-    "uptimeMonth": "92.50%",
-    "uptimeYear": "99.37%",
+    "uptimeMonth": "92.53%",
+    "uptimeYear": "99.38%",
     "time": 456,
-    "timeDay": 472,
+    "timeDay": 464,
     "timeWeek": 444,
     "timeMonth": 439,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-09-23": 201,
+      "2025-09-23": 202,
       "2025-09-22": 239,
       "2025-09-21": 149,
       "2025-09-20": 357,
@@ -277,7 +277,7 @@
       "2025-09-10": 109,
       "2025-09-09": 20,
       "2025-09-08": 65,
-      "2025-09-07": 33
+      "2025-09-07": 16
     }
   },
   {
@@ -285,14 +285,14 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "79.36%",
+    "uptimeDay": "79.33%",
     "uptimeWeek": "83.40%",
-    "uptimeMonth": "92.59%",
-    "uptimeYear": "99.38%",
-    "time": 580,
-    "timeDay": 965,
+    "uptimeMonth": "92.62%",
+    "uptimeYear": "99.39%",
+    "time": 581,
+    "timeDay": 799,
     "timeWeek": 648,
     "timeMonth": 629,
     "timeYear": 597,
@@ -314,8 +314,7 @@
       "2025-09-09": 20,
       "2025-09-08": 63,
       "2025-09-07": 32,
-      "2025-09-06": 36,
-      "2025-08-30": 15
+      "2025-09-06": 36
     }
   }
 ]
