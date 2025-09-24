@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2025-09-24": 1160,
+      "2025-09-24": 1186,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
@@ -250,19 +250,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "76.71%",
-    "uptimeWeek": "82.07%",
-    "uptimeMonth": "92.25%",
-    "uptimeYear": "99.35%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "76.67%",
+    "uptimeWeek": "82.06%",
+    "uptimeMonth": "92.28%",
+    "uptimeYear": "99.36%",
     "time": 453,
     "timeDay": 431,
     "timeWeek": 448,
     "timeMonth": 439,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-09-24": 298,
+      "2025-09-24": 299,
       "2025-09-23": 256,
       "2025-09-22": 239,
       "2025-09-21": 149,
@@ -275,7 +275,7 @@
       "2025-09-14": 297,
       "2025-09-13": 104,
       "2025-09-12": 546,
-      "2025-09-11": 60
+      "2025-09-11": 44
     }
   },
   {
