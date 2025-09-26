@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.61%",
+    "uptimeYear": "52.60%",
     "time": 351,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2025-09-26": 638,
+      "2025-09-26": 686,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -252,19 +252,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "80.99%",
-    "uptimeWeek": "81.46%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "80.94%",
+    "uptimeWeek": "81.63%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
     "time": 457,
-    "timeDay": 538,
+    "timeDay": 539,
     "timeWeek": 455,
     "timeMonth": 445,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2025-09-26": 125,
+      "2025-09-26": 126,
       "2025-09-25": 270,
       "2025-09-24": 381,
       "2025-09-23": 256,
@@ -276,7 +276,7 @@
       "2025-09-17": 238,
       "2025-09-16": 198,
       "2025-09-15": 164,
-      "2025-09-14": 40
+      "2025-09-14": 16
     }
   },
   {
@@ -284,14 +284,14 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "81.35%",
-    "uptimeWeek": "82.44%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "81.33%",
+    "uptimeWeek": "82.61%",
+    "uptimeMonth": "93.48%",
+    "uptimeYear": "99.46%",
     "time": 583,
-    "timeDay": 774,
+    "timeDay": 788,
     "timeWeek": 654,
     "timeMonth": 637,
     "timeYear": 602,
@@ -308,7 +308,7 @@
       "2025-09-17": 233,
       "2025-09-16": 182,
       "2025-09-15": 161,
-      "2025-09-14": 131
+      "2025-09-14": 116
     }
   }
 ]
