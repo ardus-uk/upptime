@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "88.41%",
+    "uptime": "88.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.36%",
+    "uptimeYear": "52.35%",
     "time": 352,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2025-09-27": 503,
+      "2025-09-27": 536,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -253,11 +253,11 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "67.19%",
+    "uptimeDay": "67.14%",
     "uptimeWeek": "78.64%",
-    "uptimeMonth": "93.15%",
+    "uptimeMonth": "93.21%",
     "uptimeYear": "99.43%",
     "time": 455,
     "timeDay": 484,
@@ -265,7 +265,7 @@
     "timeMonth": 447,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2025-09-27": 192,
+      "2025-09-27": 193,
       "2025-09-26": 388,
       "2025-09-25": 270,
       "2025-09-24": 381,
@@ -276,7 +276,7 @@
       "2025-09-19": 245,
       "2025-09-18": 248,
       "2025-09-17": 238,
-      "2025-09-16": 42
+      "2025-09-16": 16
     }
   },
   {
@@ -284,11 +284,11 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "67.63%",
+    "uptimeDay": "67.61%",
     "uptimeWeek": "79.64%",
-    "uptimeMonth": "93.06%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "99.42%",
     "time": 592,
     "timeDay": 576,
@@ -307,8 +307,7 @@
       "2025-09-19": 241,
       "2025-09-18": 244,
       "2025-09-17": 233,
-      "2025-09-16": 182,
-      "2025-09-15": 15
+      "2025-09-16": 182
     }
   }
 ]
