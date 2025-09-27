@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ardus.co.uk.ico",
     "slug": "ardus",
     "status": "up",
-    "uptime": "97.24%",
+    "uptime": "97.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2025-09-27": 552,
+      "2025-09-27": 567,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -253,11 +253,11 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "66.06%",
+    "uptimeDay": "66.01%",
     "uptimeWeek": "78.48%",
-    "uptimeMonth": "93.17%",
+    "uptimeMonth": "93.21%",
     "uptimeYear": "99.43%",
     "time": 455,
     "timeDay": 483,
@@ -265,7 +265,7 @@
     "timeMonth": 447,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2025-09-27": 208,
+      "2025-09-27": 209,
       "2025-09-26": 388,
       "2025-09-25": 270,
       "2025-09-24": 381,
@@ -275,8 +275,7 @@
       "2025-09-20": 357,
       "2025-09-19": 245,
       "2025-09-18": 248,
-      "2025-09-17": 238,
-      "2025-09-16": 16
+      "2025-09-17": 238
     }
   },
   {
@@ -284,12 +283,12 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "66.53%",
-    "uptimeWeek": "79.49%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "99.42%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "66.51%",
+    "uptimeWeek": "79.48%",
+    "uptimeMonth": "93.30%",
+    "uptimeYear": "99.44%",
     "time": 593,
     "timeDay": 590,
     "timeWeek": 661,
@@ -307,7 +306,7 @@
       "2025-09-19": 241,
       "2025-09-18": 244,
       "2025-09-17": 233,
-      "2025-09-16": 182
+      "2025-09-16": 73
     }
   }
 ]
