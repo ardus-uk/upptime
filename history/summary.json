@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "88.43%",
+    "uptime": "88.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 0,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2025-09-27": 44,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
