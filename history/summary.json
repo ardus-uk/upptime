@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.82%",
+    "uptimeYear": "51.80%",
     "time": 353,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2025-09-29": 431,
+      "2025-09-29": 580,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
@@ -255,19 +255,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "67.47%",
-    "uptimeWeek": "75.73%",
-    "uptimeMonth": "93.16%",
+    "uptimeDay": "69.86%",
+    "uptimeWeek": "75.72%",
+    "uptimeMonth": "93.20%",
     "uptimeYear": "99.43%",
     "time": 459,
-    "timeDay": 624,
+    "timeDay": 642,
     "timeWeek": 497,
     "timeMonth": 460,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-09-29": 253,
+      "2025-09-29": 254,
       "2025-09-28": 344,
       "2025-09-27": 419,
       "2025-09-26": 388,
@@ -276,7 +276,7 @@
       "2025-09-23": 256,
       "2025-09-22": 239,
       "2025-09-21": 149,
-      "2025-09-20": 300
+      "2025-09-20": 281
     }
   },
   {
@@ -284,15 +284,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "67.88%",
+    "uptimeDay": "70.23%",
     "uptimeWeek": "76.63%",
-    "uptimeMonth": "93.29%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "93.34%",
+    "uptimeYear": "99.45%",
     "time": 594,
-    "timeDay": 462,
-    "timeWeek": 679,
+    "timeDay": 459,
+    "timeWeek": 680,
     "timeMonth": 634,
     "timeYear": 604,
     "dailyMinutesDown": {
@@ -305,7 +305,7 @@
       "2025-09-23": 248,
       "2025-09-22": 234,
       "2025-09-21": 146,
-      "2025-09-20": 339
+      "2025-09-20": 317
     }
   }
 ]
