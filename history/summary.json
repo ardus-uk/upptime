@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2025-10-03": 186,
+      "2025-10-03": 216,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -259,11 +259,11 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "61.21%",
-    "uptimeWeek": "70.73%",
-    "uptimeMonth": "92.31%",
+    "uptimeDay": "61.16%",
+    "uptimeWeek": "70.76%",
+    "uptimeMonth": "92.36%",
     "uptimeYear": "99.36%",
     "time": 460,
     "timeDay": 434,
@@ -271,7 +271,7 @@
     "timeMonth": 458,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2025-10-03": 186,
+      "2025-10-03": 187,
       "2025-10-02": 513,
       "2025-10-01": 425,
       "2025-09-30": 260,
@@ -280,7 +280,7 @@
       "2025-09-27": 419,
       "2025-09-26": 388,
       "2025-09-25": 270,
-      "2025-09-24": 102
+      "2025-09-24": 83
     }
   },
   {
@@ -288,15 +288,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "62.73%",
-    "uptimeWeek": "71.48%",
-    "uptimeMonth": "92.29%",
+    "uptimeDay": "62.71%",
+    "uptimeWeek": "71.52%",
+    "uptimeMonth": "92.33%",
     "uptimeYear": "99.36%",
     "time": 607,
     "timeDay": 774,
-    "timeWeek": 673,
+    "timeWeek": 649,
     "timeMonth": 646,
     "timeYear": 611,
     "dailyMinutesDown": {
@@ -309,7 +309,7 @@
       "2025-09-27": 411,
       "2025-09-26": 385,
       "2025-09-25": 245,
-      "2025-09-24": 211
+      "2025-09-24": 192
     }
   }
 ]
