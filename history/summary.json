@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.76%",
+    "uptimeYear": "49.75%",
     "time": 352,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2025-10-06": 1191,
+      "2025-10-06": 1239,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -262,19 +262,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "74.20%",
-    "uptimeWeek": "70.02%",
-    "uptimeMonth": "91.63%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "74.15%",
+    "uptimeWeek": "70.34%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "99.31%",
     "time": 459,
     "timeDay": 475,
     "timeWeek": 459,
     "timeMonth": 461,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-10-06": 311,
+      "2025-10-06": 312,
       "2025-10-05": 550,
       "2025-10-04": 412,
       "2025-10-03": 482,
@@ -282,7 +282,7 @@
       "2025-10-01": 425,
       "2025-09-30": 260,
       "2025-09-29": 458,
-      "2025-09-28": 256
+      "2025-09-28": 240
     }
   },
   {
@@ -290,15 +290,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "74.47%",
-    "uptimeWeek": "71.13%",
-    "uptimeMonth": "91.80%",
+    "uptimeDay": "74.45%",
+    "uptimeWeek": "71.46%",
+    "uptimeMonth": "91.85%",
     "uptimeYear": "99.32%",
     "time": 599,
     "timeDay": 482,
-    "timeWeek": 612,
+    "timeWeek": 613,
     "timeMonth": 631,
     "timeYear": 606,
     "dailyMinutesDown": {
@@ -310,7 +310,7 @@
       "2025-10-01": 406,
       "2025-09-30": 255,
       "2025-09-29": 451,
-      "2025-09-28": 294
+      "2025-09-28": 271
     }
   }
 ]
