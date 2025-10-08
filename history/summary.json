@@ -13,7 +13,7 @@
     "time": 612,
     "timeDay": 550,
     "timeWeek": 514,
-    "timeMonth": 467,
+    "timeMonth": 464,
     "timeYear": 570,
     "dailyMinutesDown": {}
   },
@@ -32,9 +32,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 400,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-10-08": 1396,
+      "2025-10-08": 1398,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -237,7 +237,7 @@
     "time": 362,
     "timeDay": 402,
     "timeWeek": 338,
-    "timeMonth": 305,
+    "timeMonth": 299,
     "timeYear": 346,
     "dailyMinutesDown": {}
   },
@@ -255,7 +255,7 @@
     "time": 308,
     "timeDay": 422,
     "timeWeek": 355,
-    "timeMonth": 312,
+    "timeMonth": 310,
     "timeYear": 322,
     "dailyMinutesDown": {}
   },
@@ -264,26 +264,26 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "64.41%",
+    "uptimeDay": "64.36%",
     "uptimeWeek": "66.62%",
-    "uptimeMonth": "91.76%",
-    "uptimeYear": "99.31%",
+    "uptimeMonth": "91.80%",
+    "uptimeYear": "99.32%",
     "time": 460,
     "timeDay": 451,
     "timeWeek": 466,
     "timeMonth": 463,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-10-08": 493,
+      "2025-10-08": 494,
       "2025-10-07": 524,
       "2025-10-06": 391,
       "2025-10-05": 550,
       "2025-10-04": 412,
       "2025-10-03": 482,
       "2025-10-02": 513,
-      "2025-10-01": 249
+      "2025-10-01": 231
     }
   },
   {
@@ -291,16 +291,16 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "68.34%",
-    "uptimeWeek": "68.09%",
-    "uptimeMonth": "91.69%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "68.32%",
+    "uptimeWeek": "68.08%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "99.31%",
-    "time": 600,
-    "timeDay": 844,
+    "time": 601,
+    "timeDay": 863,
     "timeWeek": 609,
-    "timeMonth": 638,
+    "timeMonth": 639,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2025-10-08": 435,
@@ -310,8 +310,7 @@
       "2025-10-04": 388,
       "2025-10-03": 454,
       "2025-10-02": 493,
-      "2025-10-01": 406,
-      "2025-09-30": 23
+      "2025-10-01": 406
     }
   }
 ]
