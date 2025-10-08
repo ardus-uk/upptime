@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.39%",
+    "uptimeYear": "49.38%",
     "time": 353,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-10-08": 279,
+      "2025-10-08": 290,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -264,19 +264,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "65.84%",
-    "uptimeWeek": "67.45%",
-    "uptimeMonth": "91.47%",
+    "uptimeWeek": "67.44%",
+    "uptimeMonth": "91.51%",
     "uptimeYear": "99.29%",
     "time": 462,
-    "timeDay": 470,
+    "timeDay": 469,
     "timeWeek": 463,
     "timeMonth": 463,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-10-08": 163,
+      "2025-10-08": 164,
       "2025-10-07": 524,
       "2025-10-06": 391,
       "2025-10-05": 550,
@@ -284,8 +284,7 @@
       "2025-10-03": 482,
       "2025-10-02": 513,
       "2025-10-01": 425,
-      "2025-09-30": 260,
-      "2025-09-29": 21
+      "2025-09-30": 260
     }
   },
   {
@@ -293,14 +292,14 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "69.78%",
+    "uptimeDay": "69.81%",
     "uptimeWeek": "69.04%",
-    "uptimeMonth": "91.75%",
-    "uptimeYear": "99.31%",
-    "time": 592,
-    "timeDay": 650,
+    "uptimeMonth": "91.82%",
+    "uptimeYear": "99.32%",
+    "time": 593,
+    "timeDay": 651,
     "timeWeek": 595,
     "timeMonth": 634,
     "timeYear": 607,
@@ -314,7 +313,7 @@
       "2025-10-02": 493,
       "2025-10-01": 406,
       "2025-09-30": 255,
-      "2025-09-29": 64
+      "2025-09-29": 31
     }
   }
 ]
