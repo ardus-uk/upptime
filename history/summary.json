@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ardus.co.uk.ico",
     "slug": "ardus",
     "status": "up",
-    "uptime": "97.27%",
+    "uptime": "97.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "47.77%",
+    "uptimeYear": "47.75%",
     "time": 354,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-10-14": 158,
+      "2025-10-14": 226,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -270,19 +270,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "68.04%",
-    "uptimeWeek": "68.88%",
-    "uptimeMonth": "91.63%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "71.42%",
+    "uptimeWeek": "69.25%",
+    "uptimeMonth": "91.71%",
+    "uptimeYear": "99.31%",
     "time": 462,
-    "timeDay": 437,
-    "timeWeek": 478,
+    "timeDay": 435,
+    "timeWeek": 477,
     "timeMonth": 467,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-10-14": 88,
+      "2025-10-14": 89,
       "2025-10-13": 529,
       "2025-10-12": 472,
       "2025-10-11": 319,
@@ -291,7 +291,7 @@
       "2025-10-08": 493,
       "2025-10-07": 524,
       "2025-10-06": 391,
-      "2025-10-05": 37
+      "2025-10-05": 1
     }
   },
   {
@@ -299,11 +299,11 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "68.48%",
-    "uptimeWeek": "69.94%",
-    "uptimeMonth": "91.83%",
+    "uptimeDay": "71.89%",
+    "uptimeWeek": "70.31%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.32%",
     "time": 606,
     "timeDay": 528,
@@ -320,7 +320,7 @@
       "2025-10-08": 435,
       "2025-10-07": 515,
       "2025-10-06": 385,
-      "2025-10-05": 59
+      "2025-10-05": 35
     }
   }
 ]
