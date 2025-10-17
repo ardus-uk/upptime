@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "87.24%",
+    "uptime": "87.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2025-10-17": 1067,
+      "2025-10-17": 1097,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -273,19 +273,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "60.76%",
-    "uptimeWeek": "69.59%",
-    "uptimeMonth": "91.70%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "62.50%",
+    "uptimeWeek": "69.76%",
+    "uptimeMonth": "91.81%",
+    "uptimeYear": "99.32%",
     "time": 463,
     "timeDay": 430,
     "timeWeek": 473,
-    "timeMonth": 469,
+    "timeMonth": 470,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2025-10-17": 450,
+      "2025-10-17": 451,
       "2025-10-16": 510,
       "2025-10-15": 223,
       "2025-10-14": 401,
@@ -293,7 +293,7 @@
       "2025-10-12": 472,
       "2025-10-11": 319,
       "2025-10-10": 373,
-      "2025-10-09": 361
+      "2025-10-09": 310
     }
   },
   {
@@ -301,16 +301,16 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "61.19%",
-    "uptimeWeek": "69.98%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "62.93%",
+    "uptimeWeek": "70.15%",
+    "uptimeMonth": "91.84%",
+    "uptimeYear": "99.32%",
     "time": 601,
     "timeDay": 646,
     "timeWeek": 582,
-    "timeMonth": 634,
+    "timeMonth": 635,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2025-10-17": 446,
@@ -321,7 +321,7 @@
       "2025-10-12": 465,
       "2025-10-11": 314,
       "2025-10-10": 364,
-      "2025-10-09": 424
+      "2025-10-09": 341
     }
   }
 ]
