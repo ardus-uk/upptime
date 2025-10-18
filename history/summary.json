@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.56%",
+    "uptimeYear": "46.55%",
     "time": 355,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2025-10-18": 720,
+      "2025-10-18": 767,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -274,19 +274,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "68.13%",
-    "uptimeWeek": "69.59%",
-    "uptimeMonth": "91.74%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "69.46%",
+    "uptimeWeek": "70.05%",
+    "uptimeMonth": "91.78%",
+    "uptimeYear": "99.32%",
     "time": 460,
-    "timeDay": 446,
+    "timeDay": 452,
     "timeWeek": 471,
     "timeMonth": 469,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2025-10-18": 226,
+      "2025-10-18": 227,
       "2025-10-17": 527,
       "2025-10-16": 510,
       "2025-10-15": 223,
@@ -295,7 +295,7 @@
       "2025-10-12": 472,
       "2025-10-11": 319,
       "2025-10-10": 373,
-      "2025-10-09": 42
+      "2025-10-09": 22
     }
   },
   {
@@ -303,14 +303,14 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "68.57%",
-    "uptimeWeek": "69.98%",
-    "uptimeMonth": "91.85%",
+    "uptimeDay": "69.92%",
+    "uptimeWeek": "70.44%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.32%",
     "time": 605,
-    "timeDay": 460,
+    "timeDay": 465,
     "timeWeek": 580,
     "timeMonth": 632,
     "timeYear": 610,
@@ -324,7 +324,7 @@
       "2025-10-12": 465,
       "2025-10-11": 314,
       "2025-10-10": 364,
-      "2025-10-09": 40
+      "2025-10-09": 21
     }
   }
 ]
