@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.60%",
+    "uptimeYear": "46.59%",
     "time": 355,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2025-10-18": 540,
+      "2025-10-18": 574,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -274,11 +274,11 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "73.28%",
-    "uptimeWeek": "70.14%",
-    "uptimeMonth": "91.81%",
+    "uptimeDay": "73.24%",
+    "uptimeWeek": "70.20%",
+    "uptimeMonth": "91.88%",
     "uptimeYear": "99.32%",
     "time": 461,
     "timeDay": 464,
@@ -286,7 +286,7 @@
     "timeMonth": 469,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2025-10-18": 137,
+      "2025-10-18": 138,
       "2025-10-17": 527,
       "2025-10-16": 510,
       "2025-10-15": 223,
@@ -295,7 +295,7 @@
       "2025-10-12": 472,
       "2025-10-11": 319,
       "2025-10-10": 373,
-      "2025-10-09": 101
+      "2025-10-09": 67
     }
   },
   {
@@ -303,15 +303,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "73.68%",
-    "uptimeWeek": "70.53%",
-    "uptimeMonth": "91.92%",
+    "uptimeDay": "73.66%",
+    "uptimeWeek": "70.59%",
+    "uptimeMonth": "91.99%",
     "uptimeYear": "99.33%",
-    "time": 604,
+    "time": 605,
     "timeDay": 468,
-    "timeWeek": 582,
+    "timeWeek": 583,
     "timeMonth": 633,
     "timeYear": 611,
     "dailyMinutesDown": {
@@ -324,7 +324,7 @@
       "2025-10-12": 465,
       "2025-10-11": 314,
       "2025-10-10": 364,
-      "2025-10-09": 98
+      "2025-10-09": 65
     }
   }
 ]
