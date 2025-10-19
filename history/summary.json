@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.27%",
+    "uptimeYear": "46.26%",
     "time": 355,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2025-10-19": 835,
+      "2025-10-19": 879,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -275,19 +275,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "65.00%",
-    "uptimeWeek": "68.78%",
-    "uptimeMonth": "91.68%",
+    "uptimeDay": "66.74%",
+    "uptimeWeek": "69.03%",
+    "uptimeMonth": "91.73%",
     "uptimeYear": "99.31%",
     "time": 463,
-    "timeDay": 529,
-    "timeWeek": 453,
+    "timeDay": 527,
+    "timeWeek": 454,
     "timeMonth": 471,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-10-19": 364,
+      "2025-10-19": 365,
       "2025-10-18": 390,
       "2025-10-17": 527,
       "2025-10-16": 510,
@@ -295,7 +295,7 @@
       "2025-10-14": 401,
       "2025-10-13": 529,
       "2025-10-12": 472,
-      "2025-10-11": 227
+      "2025-10-11": 205
     }
   },
   {
@@ -303,15 +303,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "65.50%",
-    "uptimeWeek": "69.20%",
-    "uptimeMonth": "91.80%",
+    "uptimeDay": "67.23%",
+    "uptimeWeek": "69.45%",
+    "uptimeMonth": "91.84%",
     "uptimeYear": "99.32%",
     "time": 607,
-    "timeDay": 456,
-    "timeWeek": 560,
+    "timeDay": 457,
+    "timeWeek": 562,
     "timeMonth": 623,
     "timeYear": 608,
     "dailyMinutesDown": {
@@ -323,7 +323,7 @@
       "2025-10-14": 396,
       "2025-10-13": 525,
       "2025-10-12": 465,
-      "2025-10-11": 223
+      "2025-10-11": 201
     }
   }
 ]
