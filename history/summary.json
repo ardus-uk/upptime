@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.78%",
+    "uptimeYear": "45.76%",
     "time": 356,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2025-10-21": 509,
+      "2025-10-21": 597,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
@@ -277,19 +277,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "64.57%",
-    "uptimeWeek": "68.70%",
-    "uptimeMonth": "92.13%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "67.19%",
+    "uptimeWeek": "69.16%",
+    "uptimeMonth": "92.17%",
+    "uptimeYear": "99.35%",
     "time": 464,
-    "timeDay": 445,
-    "timeWeek": 471,
+    "timeDay": 443,
+    "timeWeek": 470,
     "timeMonth": 475,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2025-10-21": 273,
+      "2025-10-21": 274,
       "2025-10-20": 376,
       "2025-10-19": 596,
       "2025-10-18": 390,
@@ -297,7 +297,7 @@
       "2025-10-16": 510,
       "2025-10-15": 223,
       "2025-10-14": 401,
-      "2025-10-13": 149
+      "2025-10-13": 131
     }
   },
   {
@@ -305,16 +305,16 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "64.98%",
-    "uptimeWeek": "69.13%",
-    "uptimeMonth": "92.24%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "67.58%",
+    "uptimeWeek": "69.59%",
+    "uptimeMonth": "92.28%",
+    "uptimeYear": "99.36%",
     "time": 603,
     "timeDay": 445,
-    "timeWeek": 513,
-    "timeMonth": 626,
+    "timeWeek": 512,
+    "timeMonth": 627,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2025-10-21": 271,
@@ -325,7 +325,7 @@
       "2025-10-16": 502,
       "2025-10-15": 219,
       "2025-10-14": 396,
-      "2025-10-13": 147
+      "2025-10-13": 129
     }
   }
 ]
