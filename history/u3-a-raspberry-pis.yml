@@ -1,7 +1,7 @@
 url: http://u3a.epizy.com/rpis
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-26T15:57:35.492Z
+status: up
+code: 200
+responseTime: 433
+lastUpdated: 2025-10-26T16:38:57.670Z
 startTime: 2021-07-29T12:08:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
