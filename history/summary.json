@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.63%",
+    "uptimeYear": "43.62%",
     "time": 359,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2025-10-29": 320,
+      "2025-10-29": 358,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -285,11 +285,11 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "69.22%",
-    "uptimeWeek": "75.20%",
-    "uptimeMonth": "92.39%",
+    "uptimeDay": "69.93%",
+    "uptimeWeek": "75.22%",
+    "uptimeMonth": "92.44%",
     "uptimeYear": "99.37%",
     "time": 463,
     "timeDay": 453,
@@ -297,7 +297,7 @@
     "timeMonth": 466,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-10-29": 161,
+      "2025-10-29": 162,
       "2025-10-28": 285,
       "2025-10-27": 82,
       "2025-10-26": 479,
@@ -306,7 +306,7 @@
       "2025-10-23": 441,
       "2025-10-22": 464,
       "2025-10-21": 454,
-      "2025-10-20": 198
+      "2025-10-20": 175
     }
   },
   {
@@ -314,11 +314,11 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "69.54%",
-    "uptimeWeek": "74.52%",
-    "uptimeMonth": "92.52%",
+    "uptimeDay": "70.26%",
+    "uptimeWeek": "74.53%",
+    "uptimeMonth": "92.57%",
     "uptimeYear": "99.38%",
     "time": 603,
     "timeDay": 1249,
@@ -335,7 +335,7 @@
       "2025-10-23": 436,
       "2025-10-22": 485,
       "2025-10-21": 446,
-      "2025-10-20": 76
+      "2025-10-20": 56
     }
   }
 ]
