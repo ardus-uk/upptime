@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.45%",
+    "uptimeYear": "43.44%",
     "time": 359,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2025-10-29": 1260,
+      "2025-10-29": 1304,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -285,19 +285,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "69.93%",
-    "uptimeWeek": "75.17%",
-    "uptimeMonth": "92.46%",
-    "uptimeYear": "99.37%",
-    "time": 463,
-    "timeDay": 470,
+    "uptimeDay": "71.79%",
+    "uptimeWeek": "75.33%",
+    "uptimeMonth": "92.55%",
+    "uptimeYear": "99.38%",
+    "time": 464,
+    "timeDay": 469,
     "timeWeek": 456,
     "timeMonth": 467,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2025-10-29": 400,
+      "2025-10-29": 401,
       "2025-10-28": 285,
       "2025-10-27": 82,
       "2025-10-26": 479,
@@ -305,7 +305,7 @@
       "2025-10-24": 310,
       "2025-10-23": 441,
       "2025-10-22": 464,
-      "2025-10-21": 383
+      "2025-10-21": 340
     }
   },
   {
@@ -313,14 +313,14 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "71.77%",
-    "uptimeWeek": "74.93%",
-    "uptimeMonth": "92.74%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "73.62%",
+    "uptimeWeek": "75.09%",
+    "uptimeMonth": "92.82%",
+    "uptimeYear": "99.40%",
     "time": 606,
-    "timeDay": 894,
+    "timeDay": 919,
     "timeWeek": 558,
     "timeMonth": 610,
     "timeYear": 608,
@@ -333,7 +333,7 @@
       "2025-10-24": 359,
       "2025-10-23": 436,
       "2025-10-22": 485,
-      "2025-10-21": 213
+      "2025-10-21": 175
     }
   }
 ]
