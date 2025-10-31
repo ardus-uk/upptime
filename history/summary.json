@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.94%",
+    "uptimeYear": "42.93%",
     "time": 357,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2025-10-31": 1062,
+      "2025-10-31": 1080,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -287,19 +287,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "67.21%",
-    "uptimeWeek": "75.51%",
-    "uptimeMonth": "92.55%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "67.16%",
+    "uptimeWeek": "75.50%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
     "time": 462,
-    "timeDay": 442,
+    "timeDay": 444,
     "timeWeek": 443,
     "timeMonth": 466,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-10-31": 381,
+      "2025-10-31": 382,
       "2025-10-30": 298,
       "2025-10-29": 462,
       "2025-10-28": 285,
@@ -308,7 +308,7 @@
       "2025-10-25": 462,
       "2025-10-24": 310,
       "2025-10-23": 441,
-      "2025-10-22": 64
+      "2025-10-22": 44
     }
   },
   {
@@ -316,14 +316,14 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "67.58%",
+    "uptimeDay": "67.55%",
     "uptimeWeek": "75.89%",
-    "uptimeMonth": "92.64%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
     "time": 602,
-    "timeDay": 623,
+    "timeDay": 631,
     "timeWeek": 592,
     "timeMonth": 608,
     "timeYear": 607,
@@ -336,8 +336,7 @@
       "2025-10-26": 468,
       "2025-10-25": 457,
       "2025-10-24": 359,
-      "2025-10-23": 436,
-      "2025-10-22": 19
+      "2025-10-23": 436
     }
   }
 ]
