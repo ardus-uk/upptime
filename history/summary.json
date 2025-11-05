@@ -29,14 +29,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.54%",
+    "uptimeYear": "41.53%",
     "time": 359,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2025-11-05": 1212,
+      "2025-11-05": 1234,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -276,18 +276,20 @@
     "url": "https://www.cumbria-rural-choirs.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cumbria-rural-choirs.org.uk.ico",
     "slug": "cumbria-rural-choirs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 413,
-    "timeWeek": 349,
+    "timeDay": 365,
+    "timeWeek": 345,
     "timeMonth": 340,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-05": 0
+    }
   },
   {
     "name": "Eigensolutions UK",
