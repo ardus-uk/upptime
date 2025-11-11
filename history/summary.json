@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "85.88%",
+    "uptime": "85.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.11%",
+    "uptimeYear": "40.04%",
     "time": 360,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2025-11-11": 51,
+      "2025-11-11": 419,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -329,11 +329,11 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.31%",
+    "uptimeMonth": "92.35%",
     "uptimeYear": "99.36%",
     "time": 599,
     "timeDay": 621,
@@ -341,6 +341,7 @@
     "timeMonth": 574,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2025-11-11": 0,
       "2025-11-02": 363,
       "2025-11-01": 428,
       "2025-10-31": 523,
@@ -349,8 +350,7 @@
       "2025-10-28": 279,
       "2025-10-27": 108,
       "2025-10-26": 468,
-      "2025-10-25": 457,
-      "2025-10-24": 19
+      "2025-10-25": 457
     }
   }
 ]
