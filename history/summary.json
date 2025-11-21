@@ -11,8 +11,8 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 597,
-    "timeDay": 859,
-    "timeWeek": 1068,
+    "timeDay": 641,
+    "timeWeek": 1080,
     "timeMonth": 742,
     "timeYear": 592,
     "dailyMinutesDown": {
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "85.37%",
+    "uptime": "85.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.55%",
-    "time": 362,
+    "uptimeYear": "37.38%",
+    "time": 363,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 429,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2025-11-20": 598,
+      "2025-11-21": 50,
+      "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -281,9 +282,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.98%",
     "time": 371,
-    "timeDay": 353,
-    "timeWeek": 760,
-    "timeMonth": 498,
+    "timeDay": 331,
+    "timeWeek": 766,
+    "timeMonth": 497,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2025-11-18": 130
@@ -300,11 +301,11 @@
     "uptimeWeek": "98.57%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
-    "time": 313,
-    "timeDay": 377,
-    "timeWeek": 271,
-    "timeMonth": 329,
-    "timeYear": 327,
+    "time": 314,
+    "timeDay": 439,
+    "timeWeek": 272,
+    "timeMonth": 332,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-11-18": 144
     }
@@ -316,17 +317,16 @@
     "slug": "eigensolutions-uk",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "99.33%",
     "time": 461,
-    "timeDay": 461,
-    "timeWeek": 546,
-    "timeMonth": 456,
+    "timeDay": 393,
+    "timeWeek": 518,
+    "timeMonth": 455,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-11-20": 8,
       "2025-11-02": 426,
       "2025-11-01": 437,
       "2025-10-31": 530,
@@ -336,7 +336,7 @@
       "2025-10-27": 82,
       "2025-10-26": 479,
       "2025-10-25": 462,
-      "2025-10-24": 20
+      "2025-10-24": 47
     }
   },
   {
@@ -346,17 +346,16 @@
     "slug": "u3-a-raspberry-pis",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "92.43%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "92.29%",
+    "uptimeYear": "99.36%",
     "time": 600,
-    "timeDay": 331,
-    "timeWeek": 479,
-    "timeMonth": 574,
+    "timeDay": 399,
+    "timeWeek": 463,
+    "timeMonth": 580,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2025-11-20": 7,
       "2025-11-11": 25,
       "2025-11-02": 363,
       "2025-11-01": 428,
@@ -366,7 +365,7 @@
       "2025-10-28": 279,
       "2025-10-27": 108,
       "2025-10-26": 468,
-      "2025-10-25": 390
+      "2025-10-25": 457
     }
   }
 ]
