@@ -11,9 +11,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 593,
-    "timeDay": 487,
-    "timeWeek": 404,
-    "timeMonth": 721,
+    "timeDay": 608,
+    "timeWeek": 393,
+    "timeMonth": 726,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2025-11-18": 129,
@@ -30,14 +30,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.23%",
+    "uptimeYear": "35.18%",
     "time": 364,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2025-11-28": 1250,
+      "2025-11-29": 49,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -289,9 +290,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.98%",
     "time": 369,
-    "timeDay": 178,
-    "timeWeek": 211,
-    "timeMonth": 474,
+    "timeDay": 274,
+    "timeWeek": 206,
+    "timeMonth": 473,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2025-11-18": 130
@@ -309,10 +310,10 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
     "time": 315,
-    "timeDay": 344,
-    "timeWeek": 272,
-    "timeMonth": 322,
-    "timeYear": 329,
+    "timeDay": 275,
+    "timeWeek": 244,
+    "timeMonth": 314,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-11-18": 144
     }
@@ -326,11 +327,11 @@
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.98%",
+    "uptimeMonth": "95.08%",
     "uptimeYear": "99.33%",
     "time": 461,
-    "timeDay": 488,
-    "timeWeek": 456,
+    "timeDay": 498,
+    "timeWeek": 480,
     "timeMonth": 455,
     "timeYear": 463,
     "dailyMinutesDown": {
@@ -353,17 +354,16 @@
     "slug": "u3-a-raspberry-pis",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "95.18%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "99.36%",
     "time": 601,
-    "timeDay": 530,
-    "timeWeek": 558,
-    "timeMonth": 591,
+    "timeDay": 582,
+    "timeWeek": 572,
+    "timeMonth": 594,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-11-28": 8,
       "2025-11-11": 25,
       "2025-11-02": 363,
       "2025-11-01": 428,
@@ -373,7 +373,7 @@
       "2025-10-28": 279,
       "2025-10-27": 108,
       "2025-10-26": 468,
-      "2025-10-25": 390
+      "2025-10-25": 457
     }
   }
 ]
