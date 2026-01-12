@@ -31,14 +31,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.93%",
+    "uptimeYear": "22.89%",
     "time": 380,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2026-01-12": 1107,
+      "2026-01-12": 1289,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
@@ -370,19 +370,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "94.64%",
-    "uptimeWeek": "92.16%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "92.46%",
     "uptimeMonth": "97.91%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 463,
     "timeDay": 541,
     "timeWeek": 498,
     "timeMonth": 485,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2026-01-12": 77,
+      "2026-01-12": 78,
       "2026-01-11": 105,
       "2026-01-10": 76,
       "2026-01-09": 128,
@@ -402,7 +402,7 @@
       "2025-10-29": 462,
       "2025-10-28": 285,
       "2025-10-27": 82,
-      "2025-10-26": 125
+      "2025-10-26": 107
     }
   },
   {
@@ -410,15 +410,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "94.71%",
-    "uptimeWeek": "92.10%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "92.40%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "99.34%",
     "time": 606,
     "timeDay": 1522,
-    "timeWeek": 663,
+    "timeWeek": 668,
     "timeMonth": 644,
     "timeYear": 613,
     "dailyMinutesDown": {
@@ -444,7 +444,7 @@
       "2025-10-30": 283,
       "2025-10-29": 436,
       "2025-10-28": 279,
-      "2025-10-27": 108
+      "2025-10-27": 79
     }
   }
 ]
