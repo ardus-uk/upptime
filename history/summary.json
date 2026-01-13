@@ -31,14 +31,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.66%",
+    "uptimeYear": "22.65%",
     "time": 380,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2026-01-13": 1098,
+      "2026-01-13": 1131,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -371,19 +371,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "93.28%",
-    "uptimeWeek": "92.36%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "92.39%",
     "uptimeMonth": "97.71%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 463,
-    "timeDay": 496,
-    "timeWeek": 503,
+    "timeDay": 503,
+    "timeWeek": 505,
     "timeMonth": 487,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2026-01-13": 65,
+      "2026-01-13": 66,
       "2026-01-12": 101,
       "2026-01-11": 105,
       "2026-01-10": 76,
@@ -404,7 +404,7 @@
       "2025-10-29": 462,
       "2025-10-28": 285,
       "2025-10-27": 82,
-      "2025-10-26": 38
+      "2025-10-26": 16
     }
   },
   {
@@ -412,15 +412,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "93.42%",
-    "uptimeWeek": "92.31%",
+    "uptimeDay": "93.99%",
+    "uptimeWeek": "92.34%",
     "uptimeMonth": "97.62%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 598,
-    "timeDay": 447,
-    "timeWeek": 659,
+    "timeDay": 460,
+    "timeWeek": 665,
     "timeMonth": 635,
     "timeYear": 613,
     "dailyMinutesDown": {
@@ -446,8 +446,7 @@
       "2025-10-31": 523,
       "2025-10-30": 283,
       "2025-10-29": 436,
-      "2025-10-28": 279,
-      "2025-10-27": 15
+      "2025-10-28": 279
     }
   }
 ]
