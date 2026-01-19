@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "82.24%",
+    "uptime": "82.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.11%",
+    "uptimeYear": "21.06%",
     "time": 382,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2026-01-19": 600,
+      "2026-01-19": 856,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -377,19 +377,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "88.40%",
-    "uptimeWeek": "86.16%",
-    "uptimeMonth": "94.95%",
+    "uptimeDay": "90.04%",
+    "uptimeWeek": "86.42%",
+    "uptimeMonth": "94.94%",
     "uptimeYear": "99.25%",
     "time": 463,
-    "timeDay": 461,
+    "timeDay": 456,
     "timeWeek": 479,
     "timeMonth": 481,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2026-01-19": 51,
+      "2026-01-19": 52,
       "2026-01-18": 155,
       "2026-01-17": 48,
       "2026-01-16": 82,
@@ -412,8 +412,7 @@
       "2025-11-02": 426,
       "2025-11-01": 437,
       "2025-10-31": 530,
-      "2025-10-30": 298,
-      "2025-10-29": 22
+      "2025-10-30": 298
     }
   },
   {
@@ -421,15 +420,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "88.60%",
-    "uptimeWeek": "86.31%",
+    "uptimeDay": "90.23%",
+    "uptimeWeek": "86.57%",
     "uptimeMonth": "94.88%",
     "uptimeYear": "99.26%",
     "time": 604,
-    "timeDay": 461,
-    "timeWeek": 632,
+    "timeDay": 470,
+    "timeWeek": 634,
     "timeMonth": 617,
     "timeYear": 613,
     "dailyMinutesDown": {
@@ -459,7 +458,7 @@
       "2025-11-02": 363,
       "2025-11-01": 428,
       "2025-10-31": 523,
-      "2025-10-30": 176
+      "2025-10-30": 161
     }
   }
 ]
