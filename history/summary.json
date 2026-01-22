@@ -31,14 +31,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.18%",
+    "uptimeYear": "20.17%",
     "time": 384,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2026-01-22": 1166,
+      "2026-01-22": 1195,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -380,19 +380,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "88.24%",
-    "uptimeWeek": "90.97%",
+    "uptimeDay": "88.19%",
+    "uptimeWeek": "90.96%",
     "uptimeMonth": "93.63%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.25%",
     "time": 462,
     "timeDay": 458,
     "timeWeek": 484,
     "timeMonth": 484,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2026-01-22": 170,
+      "2026-01-22": 171,
       "2026-01-21": 27,
       "2026-01-20": 289,
       "2026-01-19": 141,
@@ -417,7 +417,7 @@
       "2025-12-17": 18,
       "2025-11-02": 426,
       "2025-11-01": 437,
-      "2025-10-31": 335
+      "2025-10-31": 268
     }
   },
   {
@@ -425,19 +425,19 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "89.43%",
-    "uptimeWeek": "91.25%",
-    "uptimeMonth": "93.62%",
-    "uptimeYear": "99.26%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "89.39%",
+    "uptimeWeek": "91.24%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "99.27%",
     "time": 598,
     "timeDay": 494,
     "timeWeek": 466,
     "timeMonth": 599,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2026-01-22": 152,
+      "2026-01-22": 153,
       "2026-01-21": 27,
       "2026-01-20": 286,
       "2026-01-19": 137,
@@ -465,7 +465,7 @@
       "2025-11-11": 25,
       "2025-11-02": 363,
       "2025-11-01": 428,
-      "2025-10-31": 146
+      "2025-10-31": 95
     }
   }
 ]
