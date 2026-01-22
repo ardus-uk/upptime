@@ -31,14 +31,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.31%",
+    "uptimeYear": "20.29%",
     "time": 384,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2026-01-22": 456,
+      "2026-01-22": 584,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -380,19 +380,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "93.87%",
-    "uptimeWeek": "91.07%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "91.56%",
     "uptimeMonth": "93.88%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 462,
     "timeDay": 484,
-    "timeWeek": 492,
+    "timeWeek": 493,
     "timeMonth": 485,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2026-01-22": 61,
+      "2026-01-22": 62,
       "2026-01-21": 27,
       "2026-01-20": 289,
       "2026-01-19": 141,
@@ -417,7 +417,7 @@
       "2025-12-17": 18,
       "2025-11-02": 426,
       "2025-11-01": 437,
-      "2025-10-31": 447
+      "2025-10-31": 402
     }
   },
   {
@@ -425,15 +425,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "93.97%",
-    "uptimeWeek": "91.20%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "93.94%",
+    "uptimeWeek": "91.69%",
     "uptimeMonth": "93.83%",
     "uptimeYear": "99.26%",
-    "time": 597,
+    "time": 598,
     "timeDay": 466,
-    "timeWeek": 465,
+    "timeWeek": 464,
     "timeMonth": 601,
     "timeYear": 612,
     "dailyMinutesDown": {
@@ -465,7 +465,7 @@
       "2025-11-11": 25,
       "2025-11-02": 363,
       "2025-11-01": 428,
-      "2025-10-31": 235
+      "2025-10-31": 206
     }
   }
 ]
