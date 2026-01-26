@@ -4,19 +4,19 @@
     "url": "https://www.ardus.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.ardus.co.uk.ico",
     "slug": "ardus",
-    "status": "down",
+    "status": "up",
     "uptime": "97.44%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 574,
-    "timeDay": 745,
+    "timeDay": 647,
     "timeWeek": 548,
     "timeMonth": 548,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2026-01-26": 0,
+      "2026-01-26": 28,
       "2025-12-05": 19,
       "2025-11-18": 129,
       "2025-11-05": 19
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "81.87%",
+    "uptime": "81.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2026-01-26": 1198,
+      "2026-01-26": 1227,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -385,19 +385,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "80.29%",
-    "uptimeWeek": "88.65%",
+    "uptimeDay": "81.04%",
+    "uptimeWeek": "88.91%",
     "uptimeMonth": "92.25%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 468,
     "timeDay": 1256,
-    "timeWeek": 657,
+    "timeWeek": 661,
     "timeMonth": 535,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2026-01-26": 232,
+      "2026-01-26": 233,
       "2026-01-25": 158,
       "2026-01-24": 111,
       "2026-01-23": 87,
@@ -425,7 +425,7 @@
       "2025-12-18": 20,
       "2025-12-17": 18,
       "2025-11-02": 426,
-      "2025-11-01": 87
+      "2025-11-01": 42
     }
   },
   {
@@ -433,10 +433,10 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "80.53%",
-    "uptimeWeek": "89.38%",
+    "uptimeDay": "81.28%",
+    "uptimeWeek": "89.64%",
     "uptimeMonth": "92.35%",
     "uptimeYear": "99.25%",
     "time": 600,
@@ -476,7 +476,7 @@
       "2025-12-01": 71,
       "2025-11-11": 25,
       "2025-11-02": 363,
-      "2025-11-01": 40
+      "2025-11-01": 21
     }
   }
 ]
