@@ -32,14 +32,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.91%",
+    "uptimeYear": "14.87%",
     "time": 394,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2026-02-11": 77,
+      "2026-02-11": 277,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -401,11 +401,11 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "96.01%",
-    "uptimeWeek": "90.59%",
-    "uptimeMonth": "90.61%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "90.75%",
+    "uptimeMonth": "90.66%",
     "uptimeYear": "99.22%",
     "time": 469,
     "timeDay": 387,
@@ -413,6 +413,7 @@
     "timeMonth": 528,
     "timeYear": 470,
     "dailyMinutesDown": {
+      "2026-02-11": 1,
       "2026-02-10": 57,
       "2026-02-09": 116,
       "2026-02-08": 86,
@@ -438,8 +439,7 @@
       "2026-01-19": 141,
       "2026-01-18": 155,
       "2026-01-17": 48,
-      "2026-01-16": 82,
-      "2026-01-15": 23
+      "2026-01-16": 82
     }
   },
   {
@@ -447,18 +447,19 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "90.44%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "90.83%",
+    "uptimeMonth": "90.60%",
+    "uptimeYear": "99.22%",
     "time": 596,
     "timeDay": 542,
     "timeWeek": 583,
     "timeMonth": 580,
     "timeYear": 613,
     "dailyMinutesDown": {
+      "2026-02-11": 0,
       "2026-02-10": 57,
       "2026-02-09": 116,
       "2026-02-08": 84,
@@ -485,7 +486,7 @@
       "2026-01-18": 152,
       "2026-01-17": 47,
       "2026-01-16": 81,
-      "2026-01-15": 206
+      "2026-01-15": 136
     }
   }
 ]
