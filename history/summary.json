@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "80.92%",
+    "uptime": "80.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.81%",
+    "uptimeYear": "13.75%",
     "time": 397,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2026-02-15": 72,
+      "2026-02-15": 394,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
@@ -405,11 +405,11 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "92.99%",
+    "uptimeDay": "92.93%",
     "uptimeWeek": "91.00%",
-    "uptimeMonth": "89.91%",
+    "uptimeMonth": "89.95%",
     "uptimeYear": "99.16%",
     "time": 468,
     "timeDay": 468,
@@ -417,6 +417,7 @@
     "timeMonth": 533,
     "timeYear": 470,
     "dailyMinutesDown": {
+      "2026-02-15": 1,
       "2026-02-14": 101,
       "2026-02-13": 88,
       "2026-02-12": 234,
@@ -443,7 +444,7 @@
       "2026-01-22": 212,
       "2026-01-21": 27,
       "2026-01-20": 289,
-      "2026-01-19": 108
+      "2026-01-19": 90
     }
   },
   {
@@ -451,18 +452,19 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "94.12%",
-    "uptimeWeek": "91.23%",
-    "uptimeMonth": "89.86%",
-    "uptimeYear": "99.15%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "94.09%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "89.91%",
+    "uptimeYear": "99.16%",
     "time": 599,
     "timeDay": 575,
     "timeWeek": 551,
-    "timeMonth": 541,
+    "timeMonth": 542,
     "timeYear": 612,
     "dailyMinutesDown": {
+      "2026-02-15": 0,
       "2026-02-14": 85,
       "2026-02-13": 87,
       "2026-02-12": 232,
@@ -490,7 +492,7 @@
       "2026-01-21": 27,
       "2026-01-20": 286,
       "2026-01-19": 137,
-      "2026-01-18": 114
+      "2026-01-18": 90
     }
   }
 ]
