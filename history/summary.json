@@ -32,14 +32,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.60%",
+    "uptimeYear": "13.59%",
     "time": 397,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2026-02-15": 1185,
+      "2026-02-15": 1248,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
@@ -405,19 +405,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "83.34%",
-    "uptimeWeek": "89.49%",
-    "uptimeMonth": "90.00%",
+    "uptimeDay": "84.13%",
+    "uptimeWeek": "89.64%",
+    "uptimeMonth": "90.05%",
     "uptimeYear": "99.17%",
     "time": 468,
-    "timeDay": 466,
+    "timeDay": 447,
     "timeWeek": 470,
     "timeMonth": 530,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2026-02-15": 213,
+      "2026-02-15": 214,
       "2026-02-14": 101,
       "2026-02-13": 88,
       "2026-02-12": 234,
@@ -443,7 +443,7 @@
       "2026-01-23": 87,
       "2026-01-22": 212,
       "2026-01-21": 27,
-      "2026-01-20": 143
+      "2026-01-20": 121
     }
   },
   {
@@ -451,14 +451,14 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "84.61%",
-    "uptimeWeek": "89.74%",
-    "uptimeMonth": "89.76%",
+    "uptimeDay": "85.42%",
+    "uptimeWeek": "89.89%",
+    "uptimeMonth": "89.83%",
     "uptimeYear": "99.15%",
     "time": 600,
-    "timeDay": 540,
+    "timeDay": 543,
     "timeWeek": 550,
     "timeMonth": 542,
     "timeYear": 612,
@@ -490,7 +490,7 @@
       "2026-01-22": 194,
       "2026-01-21": 27,
       "2026-01-20": 286,
-      "2026-01-19": 87
+      "2026-01-19": 56
     }
   }
 ]
