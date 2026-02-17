@@ -32,14 +32,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.16%",
+    "uptimeYear": "13.13%",
     "time": 399,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2026-02-17": 654,
+      "2026-02-17": 805,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -407,19 +407,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "91.34%",
-    "uptimeWeek": "88.88%",
-    "uptimeMonth": "89.88%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "91.28%",
+    "uptimeWeek": "89.22%",
+    "uptimeMonth": "89.94%",
     "uptimeYear": "99.16%",
     "time": 468,
     "timeDay": 523,
-    "timeWeek": 477,
+    "timeWeek": 483,
     "timeMonth": 530,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2026-02-17": 53,
+      "2026-02-17": 54,
       "2026-02-16": 71,
       "2026-02-15": 313,
       "2026-02-14": 101,
@@ -445,7 +445,7 @@
       "2026-01-25": 158,
       "2026-01-24": 111,
       "2026-01-23": 87,
-      "2026-01-22": 212
+      "2026-01-22": 183
     }
   },
   {
@@ -453,15 +453,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "91.44%",
-    "uptimeWeek": "89.14%",
-    "uptimeMonth": "89.78%",
+    "uptimeDay": "91.40%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "89.83%",
     "uptimeYear": "99.15%",
-    "time": 601,
+    "time": 599,
     "timeDay": 542,
-    "timeWeek": 557,
+    "timeWeek": 562,
     "timeMonth": 550,
     "timeYear": 612,
     "dailyMinutesDown": {
@@ -493,7 +493,7 @@
       "2026-01-23": 72,
       "2026-01-22": 194,
       "2026-01-21": 27,
-      "2026-01-20": 140
+      "2026-01-20": 119
     }
   }
 ]
