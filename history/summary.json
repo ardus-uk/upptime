@@ -32,14 +32,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.24%",
+    "uptimeYear": "11.22%",
     "time": 403,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2026-02-24": 664,
+      "2026-02-24": 752,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -395,16 +395,16 @@
     "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.76%",
-    "uptimeMonth": "86.75%",
-    "uptimeYear": "98.86%",
+    "uptimeWeek": "41.89%",
+    "uptimeMonth": "86.55%",
+    "uptimeYear": "98.85%",
     "time": 324,
     "timeDay": 0,
     "timeWeek": 429,
     "timeMonth": 327,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2026-02-24": 664,
+      "2026-02-24": 752,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -419,11 +419,11 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "80.22%",
+    "uptimeDay": "80.16%",
     "uptimeWeek": "87.41%",
-    "uptimeMonth": "89.15%",
+    "uptimeMonth": "89.20%",
     "uptimeYear": "99.10%",
     "time": 471,
     "timeDay": 529,
@@ -431,7 +431,7 @@
     "timeMonth": 539,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2026-02-24": 157,
+      "2026-02-24": 158,
       "2026-02-23": 243,
       "2026-02-22": 145,
       "2026-02-21": 155,
@@ -459,7 +459,7 @@
       "2026-01-30": 60,
       "2026-01-29": 348,
       "2026-01-28": 262,
-      "2026-01-27": 93
+      "2026-01-27": 69
     }
   },
   {
@@ -467,12 +467,12 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "80.42%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "80.38%",
     "uptimeWeek": "87.54%",
-    "uptimeMonth": "89.16%",
-    "uptimeYear": "99.10%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "99.11%",
     "time": 597,
     "timeDay": 612,
     "timeWeek": 600,
@@ -507,7 +507,7 @@
       "2026-01-30": 60,
       "2026-01-29": 345,
       "2026-01-28": 259,
-      "2026-01-27": 147
+      "2026-01-27": 87
     }
   }
 ]
