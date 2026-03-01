@@ -32,14 +32,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "9.76%",
+    "uptimeYear": "9.75%",
     "time": 406,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2026-03-01": 1243,
+      "2026-03-01": 1284,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -401,7 +401,7 @@
     "uptime": "99.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.07%",
+    "uptimeMonth": "68.98%",
     "uptimeYear": "97.38%",
     "time": 324,
     "timeDay": 0,
@@ -409,7 +409,7 @@
     "timeMonth": 331,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2026-03-01": 1243,
+      "2026-03-01": 1284,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -429,10 +429,10 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "79.49%",
-    "uptimeWeek": "85.77%",
+    "uptimeDay": "79.44%",
+    "uptimeWeek": "85.76%",
     "uptimeMonth": "89.49%",
     "uptimeYear": "99.11%",
     "time": 470,
@@ -441,7 +441,7 @@
     "timeMonth": 483,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2026-03-01": 278,
+      "2026-03-01": 279,
       "2026-02-28": 203,
       "2026-02-27": 170,
       "2026-02-26": 145,
@@ -469,7 +469,7 @@
       "2026-02-04": 79,
       "2026-02-03": 97,
       "2026-02-02": 200,
-      "2026-02-01": 97
+      "2026-02-01": 71
     }
   },
   {
@@ -477,12 +477,12 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "79.80%",
-    "uptimeWeek": "85.93%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "79.77%",
+    "uptimeWeek": "85.92%",
     "uptimeMonth": "89.63%",
-    "uptimeYear": "99.10%",
+    "uptimeYear": "99.12%",
     "time": 601,
     "timeDay": 560,
     "timeWeek": 580,
@@ -517,7 +517,7 @@
       "2026-02-04": 79,
       "2026-02-03": 96,
       "2026-02-02": 198,
-      "2026-02-01": 183
+      "2026-02-01": 94
     }
   }
 ]
