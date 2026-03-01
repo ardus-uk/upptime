@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2026-03-01": 464,
+      "2026-03-01": 479,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -401,7 +401,7 @@
     "uptime": "99.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.85%",
+    "uptimeMonth": "70.81%",
     "uptimeYear": "97.53%",
     "time": 324,
     "timeDay": 0,
@@ -409,7 +409,7 @@
     "timeMonth": 331,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2026-03-01": 464,
+      "2026-03-01": 479,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -429,19 +429,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "84.58%",
+    "uptimeDay": "84.53%",
     "uptimeWeek": "86.58%",
     "uptimeMonth": "89.72%",
     "uptimeYear": "99.09%",
     "time": 469,
-    "timeDay": 479,
+    "timeDay": 464,
     "timeWeek": 519,
     "timeMonth": 483,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2026-03-01": 83,
+      "2026-03-01": 84,
       "2026-02-28": 203,
       "2026-02-27": 170,
       "2026-02-26": 145,
@@ -470,7 +470,7 @@
       "2026-02-03": 97,
       "2026-02-02": 200,
       "2026-02-01": 187,
-      "2026-01-31": 207
+      "2026-01-31": 176
     }
   },
   {
@@ -478,14 +478,14 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "84.79%",
+    "uptimeDay": "84.76%",
     "uptimeWeek": "86.73%",
     "uptimeMonth": "89.86%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.10%",
     "time": 600,
-    "timeDay": 540,
+    "timeDay": 524,
     "timeWeek": 586,
     "timeMonth": 587,
     "timeYear": 612,
@@ -519,8 +519,7 @@
       "2026-02-03": 96,
       "2026-02-02": 198,
       "2026-02-01": 183,
-      "2026-01-31": 203,
-      "2026-01-30": 30
+      "2026-01-31": 203
     }
   }
 ]
