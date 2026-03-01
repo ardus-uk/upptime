@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2026-03-01": 514,
+      "2026-03-01": 538,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -401,7 +401,7 @@
     "uptime": "99.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.73%",
+    "uptimeMonth": "70.68%",
     "uptimeYear": "97.52%",
     "time": 324,
     "timeDay": 0,
@@ -409,7 +409,7 @@
     "timeMonth": 331,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2026-03-01": 514,
+      "2026-03-01": 538,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -429,19 +429,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "82.11%",
-    "uptimeWeek": "86.56%",
+    "uptimeDay": "82.06%",
+    "uptimeWeek": "86.64%",
     "uptimeMonth": "89.64%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.10%",
     "time": 469,
     "timeDay": 468,
-    "timeWeek": 519,
+    "timeWeek": 522,
     "timeMonth": 483,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2026-03-01": 119,
+      "2026-03-01": 120,
       "2026-02-28": 203,
       "2026-02-27": 170,
       "2026-02-26": 145,
@@ -470,7 +470,7 @@
       "2026-02-03": 97,
       "2026-02-02": 200,
       "2026-02-01": 187,
-      "2026-01-31": 176
+      "2026-01-31": 97
     }
   },
   {
@@ -478,15 +478,15 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "82.35%",
-    "uptimeWeek": "86.71%",
+    "uptimeDay": "82.31%",
+    "uptimeWeek": "86.79%",
     "uptimeMonth": "89.78%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.10%",
     "time": 600,
     "timeDay": 522,
-    "timeWeek": 584,
+    "timeWeek": 575,
     "timeMonth": 587,
     "timeYear": 611,
     "dailyMinutesDown": {
@@ -519,7 +519,7 @@
       "2026-02-03": 96,
       "2026-02-02": 198,
       "2026-02-01": 183,
-      "2026-01-31": 203
+      "2026-01-31": 173
     }
   }
 ]
