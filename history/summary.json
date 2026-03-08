@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2026-03-08": 1172,
+      "2026-03-08": 1197,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -408,7 +408,7 @@
     "uptime": "99.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.22%",
+    "uptimeMonth": "46.16%",
     "uptimeYear": "95.48%",
     "time": 325,
     "timeDay": 0,
@@ -416,7 +416,7 @@
     "timeMonth": 360,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2026-03-08": 1172,
+      "2026-03-08": 1197,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -443,15 +443,15 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "94.04%",
+    "uptimeDay": "94.82%",
     "uptimeWeek": "89.56%",
-    "uptimeMonth": "89.54%",
+    "uptimeMonth": "89.59%",
     "uptimeYear": "99.13%",
     "time": 471,
-    "timeDay": 441,
-    "timeWeek": 468,
+    "timeDay": 455,
+    "timeWeek": 469,
     "timeMonth": 480,
     "timeYear": 471,
     "dailyMinutesDown": {
@@ -483,7 +483,7 @@
       "2026-02-11": 225,
       "2026-02-10": 57,
       "2026-02-09": 116,
-      "2026-02-08": 26
+      "2026-02-08": 4
     }
   },
   {
