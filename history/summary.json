@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "77.11%",
+    "uptime": "77.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-08": 117,
+      "2026-05-08": 958,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -436,12 +436,12 @@
     "status": "up",
     "uptime": "96.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "35.76%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "37.68%",
     "uptimeYear": "81.83%",
     "time": 343,
     "timeDay": 1196,
-    "timeWeek": 753,
+    "timeWeek": 802,
     "timeMonth": 728,
     "timeYear": 351,
     "dailyMinutesDown": {
@@ -526,11 +526,11 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.14%",
     "time": 472,
     "timeDay": 586,
@@ -538,6 +538,7 @@
     "timeMonth": 512,
     "timeYear": 470,
     "dailyMinutesDown": {
+      "2026-05-08": 5,
       "2026-04-13": 120,
       "2026-04-11": 41,
       "2026-03-15": 98,
@@ -566,8 +567,7 @@
       "2026-02-20": 81,
       "2026-02-19": 294,
       "2026-02-18": 65,
-      "2026-02-17": 182,
-      "2026-02-16": 31
+      "2026-02-17": 182
     }
   },
   {
@@ -575,18 +575,19 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.14%",
-    "time": 602,
+    "uptimeYear": "99.15%",
+    "time": 603,
     "timeDay": 469,
     "timeWeek": 480,
     "timeMonth": 638,
     "timeYear": 615,
     "dailyMinutesDown": {
+      "2026-05-08": 1,
       "2026-04-11": 41,
       "2026-03-15": 96,
       "2026-03-14": 169,
@@ -613,8 +614,7 @@
       "2026-02-17": 180,
       "2026-02-16": 70,
       "2026-02-15": 308,
-      "2026-02-14": 85,
-      "2026-02-13": 87
+      "2026-02-14": 85
     }
   }
 ]
