@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "75.93%",
+    "uptime": "75.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-04": 155,
+      "2026-06-04": 821,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -433,16 +433,16 @@
     "url": "https://www.cumbria-rural-choirs.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cumbria-rural-choirs.org.uk.ico",
     "slug": "cumbria-rural-choirs",
-    "status": "up",
+    "status": "down",
     "uptime": "96.21%",
-    "uptimeDay": "88.96%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.14%",
     "uptimeMonth": "98.03%",
     "uptimeYear": "81.67%",
     "time": 378,
-    "timeDay": 489,
-    "timeWeek": 489,
-    "timeMonth": 736,
+    "timeDay": 308,
+    "timeWeek": 467,
+    "timeMonth": 726,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2025-11-18": 144,
@@ -523,7 +523,8 @@
       "2026-05-18": 62,
       "2026-05-22": 276,
       "2026-05-27": 60,
-      "2026-06-03": 288
+      "2026-06-03": 288,
+      "2026-06-04": 0
     }
   },
   {
