@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 573,
-    "timeDay": 645,
-    "timeWeek": 620,
-    "timeMonth": 592,
+    "timeDay": 706,
+    "timeWeek": 611,
+    "timeMonth": 598,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2025-11-05": 19,
@@ -33,13 +33,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 456,
+    "time": 457,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 1353,
+      "2026-06-08": 7,
+      "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -402,8 +403,7 @@
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
-      "2025-06-09": 1440,
-      "2025-06-08": 1440
+      "2025-06-09": 1440
     }
   },
   {
@@ -418,10 +418,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 373,
-    "timeDay": 350,
-    "timeWeek": 315,
-    "timeMonth": 508,
-    "timeYear": 382,
+    "timeDay": 473,
+    "timeWeek": 341,
+    "timeMonth": 510,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2025-11-18": 130,
       "2025-12-05": 19,
@@ -433,16 +433,16 @@
     "url": "https://www.cumbria-rural-choirs.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cumbria-rural-choirs.org.uk.ico",
     "slug": "cumbria-rural-choirs",
-    "status": "up",
+    "status": "down",
     "uptime": "96.17%",
-    "uptimeDay": "46.77%",
+    "uptimeDay": "47.04%",
     "uptimeWeek": "83.98%",
     "uptimeMonth": "95.00%",
     "uptimeYear": "81.42%",
     "time": 372,
-    "timeDay": 335,
-    "timeWeek": 396,
-    "timeMonth": 607,
+    "timeDay": 352,
+    "timeWeek": 390,
+    "timeMonth": 591,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2025-11-18": 144,
@@ -526,7 +526,8 @@
       "2026-06-03": 288,
       "2026-06-04": 212,
       "2026-06-05": 348,
-      "2026-06-07": 767
+      "2026-06-07": 767,
+      "2026-06-08": 0
     }
   },
   {
@@ -541,9 +542,9 @@
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.10%",
     "time": 470,
-    "timeDay": 288,
-    "timeWeek": 435,
-    "timeMonth": 476,
+    "timeDay": 498,
+    "timeWeek": 449,
+    "timeMonth": 473,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2026-02-17": 129,
@@ -591,9 +592,9 @@
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.11%",
     "time": 604,
-    "timeDay": 302,
-    "timeWeek": 399,
-    "timeMonth": 445,
+    "timeDay": 427,
+    "timeWeek": 397,
+    "timeMonth": 444,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2026-02-14": 53,
