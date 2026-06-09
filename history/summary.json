@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 572,
-    "timeDay": 572,
-    "timeWeek": 589,
+    "timeDay": 438,
+    "timeWeek": 618,
     "timeMonth": 589,
     "timeYear": 580,
     "dailyMinutesDown": {
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 5,
+      "2026-06-09": 15,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -418,8 +418,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 374,
-    "timeDay": 477,
-    "timeWeek": 359,
+    "timeDay": 481,
+    "timeWeek": 374,
     "timeMonth": 515,
     "timeYear": 383,
     "dailyMinutesDown": {
@@ -433,17 +433,17 @@
     "url": "https://www.cumbria-rural-choirs.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cumbria-rural-choirs.org.uk.ico",
     "slug": "cumbria-rural-choirs",
-    "status": "down",
+    "status": "up",
     "uptime": "96.15%",
-    "uptimeDay": "55.17%",
-    "uptimeWeek": "77.57%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "55.09%",
+    "uptimeWeek": "77.48%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "81.29%",
-    "time": 372,
-    "timeDay": 396,
+    "time": 373,
+    "timeDay": 434,
     "timeWeek": 394,
-    "timeMonth": 562,
-    "timeYear": 396,
+    "timeMonth": 563,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2025-11-18": 144,
       "2025-12-05": 19,
@@ -528,7 +528,7 @@
       "2026-06-05": 348,
       "2026-06-07": 767,
       "2026-06-08": 645,
-      "2026-06-09": 0
+      "2026-06-09": 10
     }
   },
   {
@@ -543,8 +543,8 @@
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.10%",
     "time": 470,
-    "timeDay": 450,
-    "timeWeek": 444,
+    "timeDay": 402,
+    "timeWeek": 427,
     "timeMonth": 477,
     "timeYear": 471,
     "dailyMinutesDown": {
@@ -593,8 +593,8 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.11%",
     "time": 610,
-    "timeDay": 383,
-    "timeWeek": 391,
+    "timeDay": 339,
+    "timeWeek": 379,
     "timeMonth": 438,
     "timeYear": 612,
     "dailyMinutesDown": {
