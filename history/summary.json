@@ -12,7 +12,7 @@
     "uptimeYear": "99.96%",
     "time": 573,
     "timeDay": 698,
-    "timeWeek": 600,
+    "timeWeek": 593,
     "timeMonth": 594,
     "timeYear": 581,
     "dailyMinutesDown": {
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-11": 99,
+      "2026-06-11": 153,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -419,7 +419,7 @@
     "uptimeYear": "99.96%",
     "time": 374,
     "timeDay": 441,
-    "timeWeek": 374,
+    "timeWeek": 397,
     "timeMonth": 522,
     "timeYear": 384,
     "dailyMinutesDown": {
@@ -435,13 +435,13 @@
     "slug": "cumbria-rural-choirs",
     "status": "down",
     "uptime": "96.13%",
-    "uptimeDay": "82.19%",
-    "uptimeWeek": "75.39%",
-    "uptimeMonth": "92.37%",
-    "uptimeYear": "81.20%",
+    "uptimeDay": "81.26%",
+    "uptimeWeek": "74.85%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "81.19%",
     "time": 373,
-    "timeDay": 433,
-    "timeWeek": 393,
+    "timeDay": 410,
+    "timeWeek": 395,
     "timeMonth": 528,
     "timeYear": 398,
     "dailyMinutesDown": {
@@ -530,7 +530,7 @@
       "2026-06-08": 645,
       "2026-06-09": 239,
       "2026-06-10": 268,
-      "2026-06-11": 0
+      "2026-06-11": 54
     }
   },
   {
@@ -546,7 +546,7 @@
     "uptimeYear": "99.10%",
     "time": 470,
     "timeDay": 384,
-    "timeWeek": 421,
+    "timeWeek": 409,
     "timeMonth": 469,
     "timeYear": 471,
     "dailyMinutesDown": {
@@ -596,7 +596,7 @@
     "uptimeYear": "99.11%",
     "time": 610,
     "timeDay": 435,
-    "timeWeek": 401,
+    "timeWeek": 405,
     "timeMonth": 441,
     "timeYear": 612,
     "dailyMinutesDown": {
