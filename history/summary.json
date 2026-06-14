@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "75.51%",
+    "uptime": "75.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 152,
+      "2026-06-14": 977,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -433,16 +433,16 @@
     "url": "https://www.cumbria-rural-choirs.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cumbria-rural-choirs.org.uk.ico",
     "slug": "cumbria-rural-choirs",
-    "status": "up",
+    "status": "down",
     "uptime": "96.11%",
-    "uptimeDay": "93.91%",
-    "uptimeWeek": "74.57%",
-    "uptimeMonth": "91.04%",
+    "uptimeDay": "93.21%",
+    "uptimeWeek": "78.68%",
+    "uptimeMonth": "91.02%",
     "uptimeYear": "81.05%",
-    "time": 375,
-    "timeDay": 440,
-    "timeWeek": 405,
-    "timeMonth": 488,
+    "time": 374,
+    "timeDay": 370,
+    "timeWeek": 407,
+    "timeMonth": 484,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2025-11-18": 144,
@@ -532,7 +532,8 @@
       "2026-06-10": 268,
       "2026-06-11": 565,
       "2026-06-12": 106,
-      "2026-06-13": 88
+      "2026-06-13": 88,
+      "2026-06-14": 10
     }
   },
   {
@@ -540,11 +541,11 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.11%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.08%",
     "time": 470,
     "timeDay": 403,
@@ -552,7 +553,7 @@
     "timeMonth": 468,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2026-02-17": 79,
+      "2026-02-17": 39,
       "2026-02-18": 65,
       "2026-02-19": 294,
       "2026-02-20": 81,
@@ -584,7 +585,8 @@
       "2026-05-08": 64,
       "2026-06-02": 220,
       "2026-06-13": 7,
-      "2026-06-12": 165
+      "2026-06-12": 165,
+      "2026-06-14": 5
     }
   },
   {
@@ -592,19 +594,19 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.34%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.09%",
     "time": 610,
     "timeDay": 256,
     "timeWeek": 424,
     "timeMonth": 445,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2026-02-15": 308,
+      "2026-02-15": 259,
       "2026-02-16": 70,
       "2026-02-17": 180,
       "2026-02-18": 64,
@@ -633,7 +635,8 @@
       "2026-05-08": 59,
       "2026-06-02": 215,
       "2026-06-13": 7,
-      "2026-06-12": 160
+      "2026-06-12": 160,
+      "2026-06-14": 1
     }
   }
 ]
