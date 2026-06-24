@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 564,
-    "timeDay": 561,
-    "timeWeek": 517,
+    "timeDay": 530,
+    "timeWeek": 519,
     "timeMonth": 584,
     "timeYear": 583,
     "dailyMinutesDown": {
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-23": 1436,
+      "2026-06-24": 89,
+      "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -402,8 +403,7 @@
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
-      "2025-06-25": 1440,
-      "2025-06-24": 1440
+      "2025-06-25": 1440
     }
   },
   {
@@ -418,8 +418,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 375,
-    "timeDay": 316,
-    "timeWeek": 336,
+    "timeDay": 302,
+    "timeWeek": 345,
     "timeMonth": 382,
     "timeYear": 387,
     "dailyMinutesDown": {
@@ -433,15 +433,15 @@
     "url": "https://www.cumbria-rural-choirs.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cumbria-rural-choirs.org.uk.ico",
     "slug": "cumbria-rural-choirs",
-    "status": "down",
+    "status": "up",
     "uptime": "96.03%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "87.30%",
-    "uptimeMonth": "86.12%",
-    "uptimeYear": "80.58%",
+    "uptimeDay": "93.59%",
+    "uptimeWeek": "86.38%",
+    "uptimeMonth": "85.91%",
+    "uptimeYear": "80.56%",
     "time": 379,
-    "timeDay": 469,
-    "timeWeek": 378,
+    "timeDay": 398,
+    "timeWeek": 376,
     "timeMonth": 403,
     "timeYear": 401,
     "dailyMinutesDown": {
@@ -542,7 +542,8 @@
       "2026-06-20": 181,
       "2026-06-21": 196,
       "2026-06-22": 337,
-      "2026-06-23": 0
+      "2026-06-24": 88,
+      "2026-06-23": 4
     }
   },
   {
@@ -557,8 +558,8 @@
     "uptimeMonth": "98.16%",
     "uptimeYear": "99.02%",
     "time": 471,
-    "timeDay": 456,
-    "timeWeek": 411,
+    "timeDay": 451,
+    "timeWeek": 401,
     "timeMonth": 434,
     "timeYear": 472,
     "dailyMinutesDown": {
@@ -611,8 +612,8 @@
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.03%",
     "time": 611,
-    "timeDay": 471,
-    "timeWeek": 428,
+    "timeDay": 468,
+    "timeWeek": 434,
     "timeMonth": 436,
     "timeYear": 609,
     "dailyMinutesDown": {
