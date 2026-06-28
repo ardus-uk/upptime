@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 563,
-    "timeDay": 445,
-    "timeWeek": 475,
-    "timeMonth": 571,
+    "timeDay": 279,
+    "timeWeek": 460,
+    "timeMonth": 562,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2025-11-05": 19,
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-28": 1,
+      "2026-06-28": 135,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -418,8 +418,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 374,
-    "timeDay": 293,
-    "timeWeek": 298,
+    "timeDay": 247,
+    "timeWeek": 294,
     "timeMonth": 362,
     "timeYear": 387,
     "dailyMinutesDown": {
@@ -434,13 +434,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cumbria-rural-choirs.org.uk.ico",
     "slug": "cumbria-rural-choirs",
     "status": "down",
-    "uptime": "95.99%",
-    "uptimeDay": "62.10%",
-    "uptimeWeek": "81.64%",
-    "uptimeMonth": "83.25%",
-    "uptimeYear": "80.33%",
+    "uptime": "95.98%",
+    "uptimeDay": "58.75%",
+    "uptimeWeek": "80.35%",
+    "uptimeMonth": "82.95%",
+    "uptimeYear": "80.30%",
     "time": 383,
-    "timeDay": 435,
+    "timeDay": 405,
     "timeWeek": 407,
     "timeMonth": 405,
     "timeYear": 403,
@@ -547,7 +547,7 @@
       "2026-06-25": 94,
       "2026-06-26": 320,
       "2026-06-27": 544,
-      "2026-06-28": 0
+      "2026-06-28": 134
     }
   },
   {
@@ -562,8 +562,8 @@
     "uptimeMonth": "98.00%",
     "uptimeYear": "99.01%",
     "time": 471,
-    "timeDay": 464,
-    "timeWeek": 456,
+    "timeDay": 474,
+    "timeWeek": 465,
     "timeMonth": 433,
     "timeYear": 472,
     "dailyMinutesDown": {
@@ -616,8 +616,8 @@
     "uptimeMonth": "98.06%",
     "uptimeYear": "99.03%",
     "time": 611,
-    "timeDay": 459,
-    "timeWeek": 453,
+    "timeDay": 407,
+    "timeWeek": 466,
     "timeMonth": 425,
     "timeYear": 609,
     "dailyMinutesDown": {
