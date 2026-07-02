@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1312,
+      "2026-07-02": 1372,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -433,16 +433,16 @@
     "url": "https://www.cumbria-rural-choirs.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cumbria-rural-choirs.org.uk.ico",
     "slug": "cumbria-rural-choirs",
-    "status": "down",
+    "status": "up",
     "uptime": "95.91%",
-    "uptimeDay": "65.63%",
-    "uptimeWeek": "68.91%",
-    "uptimeMonth": "78.09%",
-    "uptimeYear": "79.90%",
+    "uptimeDay": "61.47%",
+    "uptimeWeek": "68.39%",
+    "uptimeMonth": "77.95%",
+    "uptimeYear": "79.89%",
     "time": 388,
-    "timeDay": 424,
-    "timeWeek": 423,
-    "timeMonth": 404,
+    "timeDay": 435,
+    "timeWeek": 427,
+    "timeMonth": 405,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2025-11-18": 144,
@@ -551,7 +551,7 @@
       "2026-06-29": 71,
       "2026-06-30": 796,
       "2026-07-01": 235,
-      "2026-07-02": 495
+      "2026-07-02": 555
     }
   },
   {
