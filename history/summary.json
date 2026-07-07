@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 8,
+      "2026-07-07": 118,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -435,14 +435,14 @@
     "slug": "cumbria-rural-choirs",
     "status": "down",
     "uptime": "95.85%",
-    "uptimeDay": "91.90%",
-    "uptimeWeek": "66.13%",
+    "uptimeDay": "84.26%",
+    "uptimeWeek": "65.31%",
     "uptimeMonth": "75.73%",
-    "uptimeYear": "79.54%",
+    "uptimeYear": "79.52%",
     "time": 381,
     "timeDay": 302,
-    "timeWeek": 412,
-    "timeMonth": 405,
+    "timeWeek": 411,
+    "timeMonth": 406,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2025-11-18": 144,
@@ -556,7 +556,7 @@
       "2026-07-04": 707,
       "2026-07-05": 214,
       "2026-07-06": 116,
-      "2026-07-07": 0
+      "2026-07-07": 110
     }
   },
   {
