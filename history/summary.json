@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "72.62%",
+    "uptime": "72.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 36,
+      "2026-08-24": 116,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -566,19 +566,19 @@
     "url": "https://www.eigensolutions.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.eigensolutions.co.uk.ico",
     "slug": "eigensolutions-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.02%",
     "time": 474,
     "timeDay": 427,
     "timeWeek": 484,
     "timeMonth": 468,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2026-02-19": 294,
+      "2026-02-19": 248,
       "2026-02-20": 81,
       "2026-02-21": 155,
       "2026-02-22": 145,
@@ -612,7 +612,8 @@
       "2026-06-14": 90,
       "2026-06-15": 225,
       "2026-06-16": 101,
-      "2026-06-27": 70
+      "2026-06-27": 70,
+      "2026-08-24": 5
     }
   },
   {
@@ -620,19 +621,19 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.10%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.02%",
     "time": 602,
     "timeDay": 492,
     "timeWeek": 386,
     "timeMonth": 428,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2026-02-17": 78,
+      "2026-02-17": 39,
       "2026-02-18": 64,
       "2026-02-19": 294,
       "2026-02-20": 80,
@@ -665,7 +666,8 @@
       "2026-06-16": 97,
       "2026-06-27": 65,
       "2026-08-16": 359,
-      "2026-08-17": 36
+      "2026-08-17": 36,
+      "2026-08-24": 0
     }
   }
 ]
