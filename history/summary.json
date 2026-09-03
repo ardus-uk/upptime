@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 869,
+      "2026-09-03": 1078,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -621,17 +621,17 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "99.02%",
-    "time": 600,
-    "timeDay": 425,
-    "timeWeek": 545,
-    "timeMonth": 480,
-    "timeYear": 596,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "85.52%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.98%",
+    "time": 601,
+    "timeDay": 1435,
+    "timeWeek": 782,
+    "timeMonth": 527,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2026-02-18": 29,
       "2026-02-19": 294,
@@ -667,7 +667,7 @@
       "2026-08-16": 359,
       "2026-08-17": 36,
       "2026-08-24": 92,
-      "2026-09-03": 1
+      "2026-09-03": 208
     }
   }
 ]
