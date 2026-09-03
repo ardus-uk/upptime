@@ -12,7 +12,7 @@
     "uptimeYear": "99.96%",
     "time": 560,
     "timeDay": 646,
-    "timeWeek": 714,
+    "timeWeek": 772,
     "timeMonth": 563,
     "timeYear": 567,
     "dailyMinutesDown": {
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "72.22%",
+    "uptime": "72.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 115,
+      "2026-09-03": 869,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -419,7 +419,7 @@
     "uptimeYear": "99.96%",
     "time": 366,
     "timeDay": 339,
-    "timeWeek": 341,
+    "timeWeek": 356,
     "timeMonth": 306,
     "timeYear": 378,
     "dailyMinutesDown": {
@@ -441,7 +441,7 @@
     "uptimeYear": "79.44%",
     "time": 400,
     "timeDay": 489,
-    "timeWeek": 551,
+    "timeWeek": 554,
     "timeMonth": 521,
     "timeYear": 426,
     "dailyMinutesDown": {
@@ -574,7 +574,7 @@
     "uptimeYear": "99.04%",
     "time": 474,
     "timeDay": 427,
-    "timeWeek": 490,
+    "timeWeek": 495,
     "timeMonth": 480,
     "timeYear": 475,
     "dailyMinutesDown": {
@@ -621,19 +621,19 @@
     "url": "http://u3a.epizy.com/rpis",
     "icon": "https://icons.duckduckgo.com/ip3/u3a.epizy.com.ico",
     "slug": "u3-a-raspberry-pis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "99.01%",
-    "time": 602,
+    "uptimeYear": "99.02%",
+    "time": 600,
     "timeDay": 425,
-    "timeWeek": 556,
+    "timeWeek": 545,
     "timeMonth": 480,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2026-02-18": 64,
+      "2026-02-18": 29,
       "2026-02-19": 294,
       "2026-02-20": 80,
       "2026-02-21": 152,
@@ -666,7 +666,8 @@
       "2026-06-27": 65,
       "2026-08-16": 359,
       "2026-08-17": 36,
-      "2026-08-24": 92
+      "2026-08-24": 92,
+      "2026-09-03": 1
     }
   }
 ]
