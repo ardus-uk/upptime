@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 561,
-    "timeDay": 369,
-    "timeWeek": 408,
-    "timeMonth": 560,
+    "time": 562,
+    "timeDay": 540,
+    "timeWeek": 413,
+    "timeMonth": 559,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2025-11-05": 19,
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pwtemple.co.uk.ico",
     "slug": "pw-temple",
     "status": "down",
-    "uptime": "71.34%",
+    "uptime": "71.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-26": 144,
+      "2026-09-27": 140,
+      "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
@@ -402,8 +403,7 @@
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
-      "2025-09-28": 1440,
-      "2025-09-27": 1440
+      "2025-09-28": 1440
     }
   },
   {
@@ -418,8 +418,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 365,
-    "timeDay": 283,
-    "timeWeek": 320,
+    "timeDay": 299,
+    "timeWeek": 312,
     "timeMonth": 318,
     "timeYear": 377,
     "dailyMinutesDown": {
@@ -439,9 +439,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "79.44%",
-    "time": 405,
-    "timeDay": 585,
-    "timeWeek": 490,
+    "time": 406,
+    "timeDay": 486,
+    "timeWeek": 512,
     "timeMonth": 504,
     "timeYear": 435,
     "dailyMinutesDown": {
@@ -573,8 +573,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 480,
-    "timeDay": 512,
-    "timeWeek": 416,
+    "timeDay": 428,
+    "timeWeek": 436,
     "timeMonth": 442,
     "timeYear": 480,
     "dailyMinutesDown": {
@@ -628,10 +628,10 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "98.98%",
     "time": 594,
-    "timeDay": 533,
-    "timeWeek": 484,
-    "timeMonth": 588,
-    "timeYear": 589,
+    "timeDay": 459,
+    "timeWeek": 491,
+    "timeMonth": 584,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2026-02-18": 29,
       "2026-02-19": 294,
